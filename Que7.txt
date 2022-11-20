@@ -1,0 +1,197 @@
+1.Company name: capgemini
+1) what are your roles and responsibilities
+2) explain framework
+3) what do you have in testrunner
+4) What are tags
+5) what is dry run
+6) difference between scenario and scenario outline
+7) WAP to select values from dropdown
+8) what is return type of findElements
+9) difference between overloading and overriding
+10) how to override a method. Tell me the syntax
+11) what is map and set
+
+2.Company name: ITC Infotech
+1. Tell me about your roles and responsibilities
+2. Which Framework you are using 
+3. What is Keyword Driven and Data driven framework?
+4. Which locator is better according to you and why?
+5. Store five numbers in a List
+6. What is in a testrunner
+7. Difference between scenario and scenario outline
+8. Which one will you refer to store window handles, List or Set 
+9. Difference between Array and arraylist
+10. Why do we use Cucumber?
+
+3.Company name: Impelsys
+1 what is polymorphism
+2 Difference between Arraylist and LinkedList
+3 Exceptons in Selenium
+4 Asked to write xpath on guru99 website
+5 Write program for string reverse
+6 How do you decide which test cases to automate
+7 can we run test cases without testrunner
+8 Why we use Javascript Executer
+9 Locators which you use
+10 What is Webdriver and chromedriver
+11 what is your team size 
+12 How many test cases you create in a single sprint
+13 If 10 test cases are failing out of 100 cases then how will you rerun that 10 testcases only
+14 Do you have any questions
+
+4.Company name : Hexaware
+1 Brief introduction
+2 Tell me about roles and responsibilities
+3 Explain Your Framework
+4 Difference between List and arraylist
+5 exceptions in selenium
+6 Sprint grooming
+7 Sprint groming
+
+6.Company name: QualityKiosk
+1. Introduce yourself
+2. Rate yourself outof 5 for selenium and Java
+3. What is POM
+4. How to handle multiple windows
+5. how to handle alert 
+6. How to handle Dropdown
+7. Tell me 5 Selenium exceptions
+8. Tell 3 Java exceptions
+9. How to handle StaleElementReference Exception
+10. Difference between Array and Collection
+11. How to handle exceptions
+12. What is Constructor
+13. Asked to write Xpath for WebElement on Amazon.in
+14. WAP for String Reverse
+15. What is Return type of getWindowHandles 
+
+7.Company Name: NTTData
+1. Introduce yourself
+2. Do you have experience in Api testing
+3. WAP to find 2nd largest and 2nd smallest number from array
+4. difference between Abstract class and interface
+5. Explain all OOPs concepts
+6. Give example where you are using Abstraction, Encapsulation, polymorphism, Inheritance
+7. Difference between overloading and overriding
+8. What does it mean by Runtime polymorphism and compile time polymorphism
+9. How to handle exceptions
+10. Use of final keyword
+11. access modifiers in Java
+12. What is multi-Threading
+13. Difference between wait and sleep
+14. Which exception you will get in case of implicit wait and Explicit wait
+15. How will you handle frames and windows in selenium
+16. How will you handle popup
+17. What is use of Background keyword
+18. Use of Hooks
+19. In feature file I have 10 scenarios out of it I want to execute one particular scenario for 10 times, how you can do that 
+
+
+9.Company Name : Apexon
+1.Introduce yourself
+2.Different types of Xpath
+3.what are browser navigation commands
+4.Difference between Implicit wait and explicit wait
+5.Different exceptions in Selenium
+6.How do you handle exception
+7.What is difference between selectByValue and selectByIndex
+8.what is polymorphism and different types of polymorphism
+9.what is interface in Java? where you use interface in Selenium?
+10.What is constructor and what is difference between default and parameterized constructor?
+11.What is difference between multiple and multilevel inheritance?
+12.What is main method in Java?
+13.Have you worked on Jenkins?
+14.Any Idea about API testing?
+15.How Agile works?
+16.Any Idea about basic SQL queries?
+17.WAP to reverse a string
+18.write SQL query to find 2nd highest salary?
+19.write Selenium Script For: Login to Flipkart.com, Search for 32 inch Samsung LED TV.
+
+
+14.Company name: Capgemini
+1 Explain your latest framework
+2 Give example of reusable components
+3 Different types of Xpath
+4 What are different variations of Xpath that we can try or different ways we can write dynamic xpath
+5 what do you consider as a sibling in xpath
+6 Why do we use indexing 
+7 lets say I have 5 windows open and I have element in the 4th window I have to traverse to that window So in that case which java collection I have to use
+8 Why do you think we should use Set and not List while handling windows
+9 What is use of Scenario Outline
+10 What can you tell me about polymorphism
+11 difference between overloading and overriding
+12 Give example for overloading
+13 Why overloading is compiletime polymorphism and overriding is runtime polymorphism
+14 Are you aware of SQL concepts
+15 Operation that you can perform in Rest Api
+16 What are the operations you perform using Git
+17 what are the steps to push code into repository
+18 What is IDE you have used
+19 If there are any errors how do you debug
+20 Difference between Smoke testing and Sanity testing
+21 While doing Regression testing how do you pick test cases if there are 100 testcases
+
+
+
+12.Company Name : TCS First Round
+1.brief about your Automation experience
+2.In 4 years what are the different Automation frameworks you have worked on?
+3.have you involved in Development of Automation framework?
+4.elaborate your framework, what is the structure and which are the reports you are generating
+5.Difference between Scenario and Scenario outline
+6.Can we parameterize steps in step defination?
+7.Annotations in Junit
+8.Example for @Before and @After annotation
+9.Difference between quit and close
+10.Have you used database connection?
+11.difference between findElement and FindElements
+12.What are the exceptions we get in selenium?
+13.exception thrown by the findelements method
+14.Are you using interface
+15.What is Constructor
+16.Encapsulation
+17.Abstraction
+18.How to clone project
+19.Difference between pull and Fetch
+20.What are the ceremonies you follow
+21.Have you worked on CI/CD
+22.Do you have any questions
+
+
+Company Name: TCS Second Round
+1.Give brief introduction of yourself
+2.Explain about current project and your roles and responsibilities
+3.What is Agile process followed in your project
+4.What is Sprint grooming
+5.What are different wait statements in Selenium
+6.What are common exceptions in Selenium
+7.What is StaleElementReference Exception
+8.How do you handle staleElementReference Exception
+9.Write xpath for text box (They shared a html file to download)
+10.In the syntax of xpath what is @ sign 
+11.Write a program to fetch the number from string
+12.Why we are using interfaces
+13.What is signature of interface how do we write
+14.What is difference between class and interface
+15.What is use of constructor
+16.What will happen if constructor is not available in a class
+17.If we have try block that will throw an exception and we are not using catch block, we are writting directly finally block, code will compile or not
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

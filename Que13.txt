@@ -1,0 +1,101 @@
+  Cybage
+1.  How many team members are there in your organization?
+2.  Which tools do you use in your organization?
+3.  For what do you use mvn?
+4.  Where are all the dependencies stored?
+5.  Abstract vs Interface?
+6.  Page Factory?
+7.  What is POM?
+8.  Use of actions and alert class?
+9.  What is a linkedList? 
+10. Difference between findElement and findElements and what are its return types?
+11. How do you handle authentications pop-ups?
+12. What do you if there are multiple windows and you want to switch to the parent window?
+13. Which Framework do you use in your organization?
+14. What is scenario outline?
+15. What is a feature file?
+16. What is meant by step definations?
+17. How is a feature file glued to step defination?
+18. What is test runner class used for?
+19. What does a test runner class contains?
+20. What is meant by dryRun?
+21. What is inside a step defination class?
+22. Where do you keep the loose codes?
+23. What are checked and unchecked exceptions in Java with examples?
+24. When do you get compile time and run time exceptions? 
+25. How do you read the Excel sheet?
+26. Where do you store the Test cases?
+27. What do you do if you have to run only 50 test cases from 150 test cases?
+28. Do you have any question for me?
+============================================================================================
+  REI Systems India Pvt ltd
+1.  Introduce youreself?
+2.  Explain your Framework?
+3.  What are your roles and responsibilities?
+4.  How many QA's are their in your team?
+5.  How do you pass the Test data?
+6.  What is Scenario outline and Example?
+7.  What are Data Tables, explain with an example?
+8.  Where do you store the Test cases?
+9.  What is the use of glue in Test runner?
+10. What is the difference between method and constructor?
+11. Difference between collection and collections?
+12. What is the difference public, private and protected?
+13. How do you handle merge conflicts in GIT?
+14. What is the use of Git push and Git pull?
+15. What are the commands for Git push and pull?
+=============================================================================================
+  VFISLK
+1.  What is String Buffer and String Builder in Java?
+2.  What is meant by upcasting and downcasting?
+3.  What's the load factor of HashMap?
+4.  Difference between ArrayList and Vector?
+5.  Explain set interface and classes inside it?
+6.  What is stack and Queue in Java?
+7.  What are methods of Exception Handling in Junit?
+8.  Mention some useful Junit extensions?
+9.  Explain what is meant by ignoring test in Junit?
+10. Use of chromeOptions,firefoxOptions,ieOptions in Selenium?
+11. What is use of Robot keys in selenium webdriver?
+12. Use of HtmlUnit driver in selenium?
+13. How do you handle merge conflicts in git?
+14. Difference between DryRun and Strict in cucumberOptions?
+15. What is the use of order function inside cucumber annotations?
+16. Can user provide multiple examples for one scenario outline in cucumber?
+=============================================================================================
+  HCL Technologies
+1.  Tell me about yourself?
+2.  What are your roles and responsibilies?
+3.  What is functional testing?
+4.  Do you know about AutoIt?
+5.  Which scenarios we cannot automate using selenium?
+6.  Why do we use sikuli in selenium webdriver?
+7.  Difference between burn-up and burn-down chart?
+8.  Explain Velocity in Agile?
+9.  What is pair programming and its benefits?
+10. Explain what is test stub?
+11. What is Test Driven Development(TDD)?
+12. Explain the color indications used in Jira?
+13. How do you customize the agile board?
+14. Explain the Kanban board used in Jira?
+15. What is the difference between Kanban and scrum?
+=============================================================================================
+  Expleo
+1.  What are the essentials of software testing?
+2.  How many different ways you can testsoftware?
+3.  Define Interface testing?
+4.  What is a test case?
+5.  Which test case management tool have you used?
+6.  Define Behavior Driven Testing?
+7.  What are the different levels of testing?
+8.  Explain the techniques used in test design?
+9.  Can you explain Defect Life Cycle?
+10. Difference between quality assurance and quality control.
+11. What is Software Testing Life Cycle?
+12. Define IDE and its uses ?
+13. What is a difference between JRE and JVM?
+14. Explain the various contents of a Test Plan?
+15. What is the advantage of using any bug tracking tool?
+
+
+

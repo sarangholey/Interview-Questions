@@ -1,0 +1,265 @@
+
+
+Infosys:
+
+1.Tell me about yourself
+2.Radio button validation in selenium
+3.How do you take screenshot for selenium webdriver
+4.How you handle webdriver in your framework
+5.How do you handle frames
+6.How to select a value from dropdown
+7.Can you tell me a different eceptions in automation testing
+8.Difference between Find element and Find elements
+9.Difference between Implict wait and explict wait
+10.Constructors in java
+11.Difference between checked exception and unchecked exception
+12.How do you handle exception Handling in java
+13.Difference between Throw and Throws
+14.Can we have multiple 'catch' block in single try-catch
+15.Difference between Abstract and Interface
+16.Difference between Overloading and Overriding
+17.Can you tell me Arraylist. What is arraylist
+18.Different access modifiers in java
+19.Difference between  Default and public
+20.Can you tell me about Cucumber framework
+21.Can you tell me  few keywords used in .feature file
+22.can we override main method
+23.What is multiple inheritance in java
+24.Difference between instance variable and static variable
+25.Difference between 'This' keyword and 'super' keyword
+26.Can you explain day to day daily activity
+27.One scenario given bt recruitor:
+In production clint found one bug and in the QA team is not detected a bug and now client asking
+why you people not find in your environment like in UAT or FAT.then what will you do in that situation or how will
+you handle it.
+28.Second scenario:
+If as a QA you have rise a bug and developer is not accepting a bug then how will you handle it.
+29.Tell me a bug life cycle
+30.How you write a test cases and on what basis you write a test cases
+31. Tell me a sprint retrospective
+32.Difference between sanity and smoke testing
+33.Can you tell me a git commands
+34.Can you tell me a different junit annotations
+35.Asked about current company and location
+36.Anything you need to ask.
+
+
+Company: Quest Global
+
+1. introduce yourself and Explain your entire experience
+2.Regular expression in xpath
+3.locators
+4.how many test cases you did in one sprint
+5.how many test cases you done till now
+6.agile methodology
+7.screenshot method
+8.get text from alert box
+9.alert handeling in  selenium
+10.sendkeys in alert
+11.difference between get and navigate method
+12.scenario outline
+13.test data handling
+
+
+Company: Inadev
+1.Explain your Automation experience
+2.Difference between implicit wait and explicit wait
+3.collections- hashmap
+4.Asked to find out lenght or array and sum of array
+
+
+
+
+Company: Capgimini
+
+1.Explain your Automation experience
+2.return type of driver.findElements
+3.How will you handle multiple frames on webpage
+4.Multiple window handle in selenium
+5.how to handle popups/alert in selenium
+6.Asked code on reverse a string
+7.asked to find dynamic xpath for below.when you login , in place of vijaya your name should displayed:
+div class='Username'
+<input>vijaya</input></div>
+
+
+Company: Inadev
+
+Strats with Introduction
+1.what are the application hooks in cucumber
+2.How to set order of execution in FW
+3.cucumber annotation
+4.How to work with cucumber hooks
+5.Can we have duplicate keys in HashMap
+6.Can we store null keys in hashmap
+7.What is static variable in java
+8.How static variable are stored in.
+9.Can we access static variable using 
+10.Selenium grid
+11.Xpath axes
+12.What is maven in java
+13.What is there in maven? Use of maven
+14.POM file?
+15.What is surefile use for
+16.What is scope in dependency maven
+17. Remove special character in string.occurene of character from string, java program count the occurence
+18.How to handle multiple windows in selenium
+19.return type of window handle.
+
+
+Company: Xebia
+
+1.Explain your Experience in automation 
+2.Reverse string in java program
+3.What is overloading in java with code
+4.Can we override static method
+5.How many ways we can click of webElement appart from .clicl
+6.What is overriding
+7.Which selenium version you are using
+8.Diff between selenium 3 and 4
+9.How to open a new tab using selenium
+10.Right click on wenelement in selenium
+11.How to fix no such element exception
+12.What is try catch
+13.What will happen in try catch
+14.what is page object model
+15.Encapsulation
+16.How to invoke browser
+17.Test runner?
+18.Dryrun?
+
+
+Company: Talent Ally
+
+1.Introduction
+2.What is test life cycle
+3.Ehat is Agile
+4.What is regression
+5.How to map a step defs to feature file
+6.How to derive Page object
+7.Return parameter of webelement
+8.Switch window in  selenium
+9.How to launch the browser
+10.Challenges you faced with your framework
+11.How to Launch a multiple browser
+12.How to Display all items in the liost available on webpage
+13.How to select checkbox and radio button
+14.Actions performed by webelement
+
+
+Company: Capgimini
+
+1.Write a scenario and code for credit card payment using NetBanking
+2.What is collection
+3.In collections what are the interface and what are the classes
+4.What is exception handeling
+5.Try catch block examples
+6.challenges you faced during your automation 
+
+
+Company: Capgimini
+
+1.Introduction
+2.Where do you store your data or values , i said properties file 
+Then he asked to write a code for it
+3.write a code to count a  vowels in string "nehatiwari"
+4.asked to open application flipcartgo to mobile specification-colour- find dynamic xpath for it
+5.given snipit in chat box and asked for output
+
+
+Company: Quess corp
+
+1.Introduction
+2.What is cucumber
+3.What is scenario outline
+4.What are the hooks
+5.Why we use hooks
+6.What is glue code
+7.what is thee in glue code
+8.what is monochrome
+9.what is dryrun
+10.How to handle multiple window
+11.what is stale element exception and how to handle it
+12.How to count number of links present on web page
+13.How to perform right click
+14.how to select value from dropdown in selenium
+15.what are the type of waits in selenium and why we use waits in selenium and also syntax of waits
+16.how to handle alerts in selenium
+17.OPPS concepts in java
+18.Diff between static and dynamic binding
+19.Diff between string and string buffer
+20.What is static and final variable in java
+21.access modifier in java
+22.What is hashmap
+23.array and arraylist diff between
+24.what ios test plan and test strategy
+25.diff between regression and retesting
+26.what is agile methodology
+
+
+Company: synecron
+
+1.explain your framework
+2.what is there in maven
+3.which plugin we use in maven to run test script
+4.write a code to extract a number from given string
+input-neha1234
+output-1234
+
+
+Company: foxmatrix
+
+1.introduction
+2.what is bdd framework
+3.how to load properties file in java
+4. buffer reader in java
+5.find xpath for disconnect button in twilio video call
+6.what are the depencencies in pom.xml
+7.what are the new feature in selenium 4
+8.if test cases failing in junit what will u do  =  re-run
+9.how to work with a list of links on webpage
+10.how to print text from a list of all webelements 
+11.how to find broken links in selenium
+12.how to take screenshot in selenium
+13.verification in selenium
+14.what is page factory
+15.diff betweeb page factory and page object model
+16.can we use page object model without page factory
+17.have u ever handles dynamic web table
+18.what scenario you used recently automated in your fw
+19. auto pop-up in selenium handling
+20.what is sprint planning
+21.have u ever written utilities
+
+
+
+Company: capgimini
+
+1.complete introduction
+2.rate yourself in java
+3.oops concepts you have used in your framework
+4.how you have used abstraction in your project
+5.how you handles frames in selenium
+6.how you find dynamic element on webpage
+7.hooks in cucumber
+8.what are the files that are important in your framework to run the test cases
+9.what is git and github
+10.what are the git commands
+11.what is the command to go to the master branch
+12.exception handeling
+13.how to handle exceptions
+14.what is finalize
+15.what are the dependency in pom.xml file
+
+
+
+
+
+
+
+
+
+
+
+
+

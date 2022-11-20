@@ -1,0 +1,257 @@
+1.Wipro
+1.	Introduce yourself
+2.	Drop down handling
+3.	Locators in selenium
+4.	How you will sort collection
+5.	Explain mevan
+6.	How to take screenshot
+7.	How to handle multiple window
+8.	What is agile? What is retrospective meeting?
+9.	What is your sprint cycle?
+10.	Swapping?
+11.	Polymorphism?
+12.	Exceptions?
+13.	Company location
+14.	Explain pom.xml
+2.In
+1.	Locators in selenium
+2.	Swapping of string program
+3.	What is return type of getwindowhandle
+4.	Your f/w ?
+5.	Your role?
+6.	Can you do end to end >
+7.	Tell me about yur project ?
+3. Mindtree 1
+1.	introduce yourself
+2.	write a program for finding duplicate character 
+3.	how to window handle 
+4.	write a program for log in functionality 
+5.	how write scenario?
+6.	Explain pom
+7.	Where did you use method overloading overriding in project 
+8.	which challenges you faced during automation
+9.	What is regression testing
+10.	How you automate test cases means directly you automate or any procedure you follow
+11.	What is your roles and responsibilities
+
+4. mind tree 2
+1. Explain f/w,
+2. How do you find out application is tested completely 
+3 find xpath (dynamic)
+3 what you will do if out of 1000 400 test cases fails
+4 how you generate reports
+5 how you write feature file
+6 severity and priority
+7 explain your role
+8 what additional you can do 
+9 what is test planning
+10 where do you see yourself with us in 5 years
+11 why you want to join us
+12 which project you want only ecom or others
+13 explain POM 
+
+5. cognizant
+1.	Write a program for string reverse
+2.	Write a program for getwindowhandle
+3.	Write program to select class
+4.	What is oops concept how you used in your framework
+5.	Write a feature file for login to add to cart steps
+6.	Write +ve and –ve test cases for textbox  of limit 256
+7.	When you do smoke and regration
+8.	How to select dropdown
+9.	What ia sanity and smoke
+10.	Write a code for capture screen shot
+11.	How to test API
+6. Capgemini
+Write program to swap string without third object
+Write program for break and continue
+Authentication popup
+Write program for given data
+White program for counting occurance in the given string
+Write program for deleting repeating numbers from given arraylist
+
+6 
+1.	Locators in selenium
+2.	What is you used for reporting purpose in your application
+3.	Which are the challenges you have faced 
+4tell me the build you use 
+
+----------------
+1.Capgemini
+1.	Introduce yourself
+2.	Program to swap 3 nos
+3.	Locators in selenium
+4.	Diff between Abstract and interfaces
+5.	What is final in java
+6.	Which are the exceptions are in selenium
+7.	How to handle alert in selenium
+8.	How to handle dynamic content
+9.	Explain your framework
+10.	What is Backgrount keyword
+11.	What is scenario outline
+12.	Diff b/w array and arraylist
+13.	What is return type of getwindowhandle and getwindowhandls
+14.	How we perform parallel testing without using grid
+15.	Explain selenium grid
+16.	Diff b/w git pull and git fetch
+17.	What is sanity and smoke testing
+18.	webDriver driver=new ChromeDriver()  what is webdriver
+19.	what is method overloading and method overriding
+20.	how many test cases you have automated in 1 month and time required
+2.Infosys
+1.	Locators in selenium
+2.	Exceptions in selenium
+3.	What is return type of getwindowhandle
+4.	What is boundry value analysis and partitioning method with eg
+5.	write code for initializing driver how to set property of it
+6.	webDriver driver=new ChromeDriver()  what is webdriver
+7.	explain css selector
+8.	in jira board which are the different option present for creating new task
+9.	explain scrum ceremonies
+10.	which are the statuses of bug life cycle
+11.	which annotations we used in junit
+12.	Locators in selenium
+13.	Diff between Abstract and interfaces
+14.	Diff b/w array and arraylist
+15.	What is regression testing
+16.	What is your roles and responsibilities
+3. L&T
+1.	introduce yourself
+2.	write a program for finding out unique character from string
+3.	how to handle dynamic web table in selenium
+4.	write a program to sort an array
+5.	how to rerun failed test cases
+6.	which challenges you faced during automation
+7.	What is regression testing
+8.	How you automate test cases means directly you automate or any procedure you follow
+9.	What is your roles and responsibilities
+
+4. Tech Mahindra
+1.	What is fail fast and fail slow
+2.	Diff between relative and absolute xpath
+3.	Roles and responsibility
+4.	Which are the tools you have used for ci/cd
+5.	Explain BDD framework
+6.	Which are the frameworks other than BDD
+7.	What is cucumber
+8.	What is gherkin language
+9.	How to do smoke testing
+10.	Tell me eg of high severity and low priority
+11.	What is priority and severity
+12.	Explain ceremonies in agile scrum
+13.	In which meeting you have to decide which functionalities you have to deliver
+14.	What is selence
+15.	What is regular expression in cucumber
+16.	What is JVM
+17.	What is reflexion
+18.	What is thread.sleep() and wait()
+
+5. TCS
+1.	Write a program for string reverse
+2.	Write a program for ascending order of an array
+3.	Write a program for getwindowhandle
+4.	What is oops concept how you used in your framework
+5.	Write a feature file for login to add to cart steps
+6.	Write +ve and –ve test cases for textbox  of limit 256
+7.	How frequently you do regression testing
+8.	How many test cases are there in your regression pack
+9.	How to select dropdown
+10.	How to upload file
+11.	What ia sanity and smoke
+12.	What is black box testing
+13.	Dii between / & //
+14.	Locators in selenium
+15.	Write a code for capture screen shot
+16.	How to test API
+
+6 .Cognizant
+1.	Introduction
+2.	Roles and responsibilities
+3.	Which challenges you faced
+4.	Why password fiels is in dot format what it called
+5.	How you write test summery report
+6.	Write down explicit wait syntax
+7.	How to scroll the page write code for it
+8.	Dropdown functionality what it called
+9.	If database is not connected to ui can you automate it and why
+10.	How you decide which test case you have to automate
+11.	Have you created test strategy and test plan
+7. Wipro
+1.	Introduce yourself
+2.	How to create Maven project
+3.	How to upload file using Autoit
+4.	Write a program to insert your name in hashmap
+5.	Explain collection hierarchy
+8. coreFlexsolution
+1.	Introduce yourself
+2.	Program to sort array
+3.	Locators in selenium
+4.	What is css selector explain
+5.	What is you used for reporting purpose in your application
+6.	Which are the challenges you have faced 
+7.	What is regression testing
+8.	How you automate the test cases after developer give you build
+
+9. V-Test
+1.	Introduce yourself
+2.	Find our character occurrences in given string
+3.	Who is your hr,hr name of current company
+4.	Company location
+5.	Who is your client
+6.	Client name
+7.	How many test cases you have automated in one month and time required
+------------
+1.Introduse yourself
+2.Explain oops concept
+3.What is System.exit(0) and System.exit(1)
+4.Expain Your FW
+5.What is finalize() method
+6.Maven version ,Java Version.
+7.All Git cmd that you are used and Diff betn pull and fetch
+8.What is pom.xml (Structure of pom)
+9.Where jar file stored when we add dependencies.(using mvn cmd)
+10.Inbuilt methods of String class
+11.Reverse String program
+12. What type of Exception in Java
+13.Sort array In acending order
+14.What is Instance  and Local variable
+15.What is class and Object
+16.How to switch tabs in Selenium
+17.WebDriver Commands 
+18.Why main is static 
+19.Diff btn function overloading and function overriding
+20.How you handle dyanamic webelement
+21.How you open any project in eclipse using mvn cmd
+22.How to disable notification of browser
+23.How to handle slider and DragAndDrop
+24.Explain Selenium Components
+25.Principle of Software testing
+26.What is Selenium
+27.Diff btn Defect ,bug,error
+30.Which maven cmd you used to execute only one class 
+31.How to parameterized data using junit
+32.write feature file  to Automate Redbus Application
+33.Tell one example where severity is low and priority is high
+34.Write a program how many vowels in string
+35.Explains waits 
+36.What ia smoke , sanity and regression
+37.Where you used OOPS concepts in your project
+38.What is return type of getWindowHandle() and getWindowHandles().
+39.Why getWindowHandles() return set ? why not list ,Map
+40.Explain inheritance with the help of real life explain
+41.What is interface and abstract class
+42.How to scrollDown page
+43.Write a program to count number of first repeated character
+44.Navigates commands
+45.How to find broken links
+46.How to take Screenshots
+47.Explain Xpath By axex methods
+48.Write test cases for login functionality.
+49.Explain Locators in Selenium.
+50.What is == operator and equals() 
+51.Explain System.out.println() statement.
+52.Difference between / and // slash in xpath.
+53.Find links on the webpage.
+54.Find Broken links 
+55.Handle dropdown without using Select class.
+

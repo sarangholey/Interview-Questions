@@ -1,0 +1,76 @@
+
+
+                                          Cognizant
+
+1. Tell me about your self ,Roles and Responsibility?
+2. which Type of Framework used in your Project?
+3. How to junrate the Report?
+4. what is difference b/w Abstaction and Arralist?
+5. what is difference b/w Set and list
+6. how to handles multipal window
+7. Testng Annotation
+8.  program- prime no in notpad 
+
+      
+                                      Tech Mahindra 
+
+1.  write Program In Notpad
+    String s= "This Is  Vaishali"
+     o/p "Vaishali Is This"
+2.  what is difference b/w String Buffer & String Builder
+3.  what is difference Encapsulations and Abstraction
+4.  what is difference throw and throws keyword
+5.  Selenium exceptions
+6.  What is Super key
+7.  What is API?
+8.  what is Rest API?     
+
+                                      Capgimini  I-Round
+
+1. Tell me about your Self?Rolls and Responsibility
+2. What is Hash Map
+3. what is Action class 
+4. What is Drag and drop
+5. what is Iframe
+6. What is Function Testing
+7. what is Test Planing
+8. what is X-path &Types
+9. what is syncronization
+10. what is implicit and explicit wait
+11.How to capture Screen shot?Syntax
+12.write progame in Notpad Reverse String 
+13. share screen search Amozon.com find the Xpath ,todays deal and customer service
+
+                               capgimini II-Round
+
+1.Tell me about your self rolls and Responsibility
+2. what is Sprint Retrospective 
+3. what is syncronization
+4. what is implicit and explicit wait
+5. What is Fram Handling?how to Switch multipal page
+6. how to handle the frame
+7. what is difference Array & Arraylist 
+8. what is findElement and findElements
+9. type of Locators
+10. which locators are used in your current project
+11. What is dropdown in selenium
+12. What is Drag and Drop
+13. what is collection,difference Hashmap and Hashset
+14. duplicat element allow or not in Hashmap
+15. difference final,finaly and finalized
+16. What is Static,
+17.what is constructore and type how to used in your project
+18. What is differece b/w Abstraction and Interface
+19. how to used Abstaction and Interface in your project
+20. program a[1,5,10,15,6] find the largest no
+21. String s="Java " find the Dublicate string
+22. swaping  no without using third variable (logic)
+23. What is Tag is used
+24. how to creat project &different type off pages used
+25.  how many type of TestNg Annotation
+26. suppose 5testcases are given ,and perticuler 3 no test case exicute In parallel
+27. what is Background keyword 
+
+  
+
+                                  

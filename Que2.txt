@@ -1,0 +1,75 @@
+-->Betsol
+
+1] Project domain (current project on which you are working)
+2] Rating (out of 10)
+3] What are the main files to run your cucumber testing
+4] After above que(3), you have to extend your answer by explaining feature files, stepdef files and Page object model
+5] Advantages of cucumber BDD framework
+6] Test cases which we do not need to automate
+7] Describe Automation testing life cycle
+
+
+-->TCS
+1] Can you brief about yourself and experience
+2] How much you comfortable in writing test case using java
+3]If I want you to connect to data base, what are the steps to be followed
+4] Could you brief about your framework on which you are working in your company?
+5] What is desired capabilties in selenium?
+6] How to read excel file in Java code, do you have any idea how to do that?
+                 
+
+-->GalaxE. Solutions India Pvt.Ltd
+
+1]Introduction
+2] Detail explanation on our e-commerce project. [you should know your e-commerce application]
+3] What is collection
+4] Type of database which you have used in your project
+5] If the functionality of any page of your application changes dynamically, how do you fix it?
+6] Do you have any questions? [Repeat]
+
+
+--> Valethi Technology
+1] explain project and framework
+2]if your e-commerce application has to run on another broweser, operating system, what will you do?
+3]how do you manage to keep so many test cases in to a single feature file?
+4]Load testing
+5]Tracebility matrix
+6] pop up handle
+
+
+--> REI
+[Telephonic Round]
+1. Which of the following method is used to work with multiple browser windows?
+2. Which of the following is not a valid x-path expression? [/,//,@,$]
+3. Is Web driver a component of selenium?
+4. True statement of following
+ 
+[Video]
+
+1] Explain OOPS concept
+2] Explain inheritance in details
+3] Open amazon site and find x path for signin and mobiles
+4] Explain project
+5] concatenation related string  que
+6] Difference between set and list
+7] exceptions in selenium
+8] interface and class implements
+9] find element and elements
+10] hashmap
+
+
+--> StoneX
+1] action class + drag and drop
+2] w/o sendkey option,how to enter 
+3] diff between scenario and scenario outline
+4] collection
+5] constructor
+6] explain framework
+7] how many test cases handled
+8] agile meetings
+9] purpose of retrospective meeting
+10] driver = new ChromeDriver(); explain
+11] properties file
+12] diff between getwindowhandles & getwindowhandle 
+13] diff between .get and .navigate
+14] how to handle pop-up?

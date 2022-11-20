@@ -1,0 +1,258 @@
+Interview questions
+
+1.tell me something about yourself.
+
+2.where have you used overloading and overriding concept in your framework?
+
+3.what is interface?where u used interface in your project?
+
+4.Diff between  method overloading and  method overriding ?
+
+5.OOPs Concept and ?where u used in your project?
+
+6.Diff between List and Set.
+
+7.explain hashmap and hashtable?
+
+8.Diff between Array and ArrayList.
+
+9.which the biggest bug you have founnd and how did you resolved it?
+
+10.Diff between Throw and Throws?
+
+11.Diff between Final,Finally &Finlize ?
+
+12.Diff between findElement and findElements?
+
+13.Diff between ImplicitWait & ExplicitWait?
+
+14.Types of wait and Explain it?
+
+15.Explain your Framework?
+
+16.What is Scenario & Scenario Outline?
+
+17.Whats is Background Keyword in Cucumber?
+
+18.git clone?
+
+19.wap for finding occurence of word and lenthg of string eg.this is this
+
+20.what is typecasting
+
+21.Git Command?
+
+22.Diff between Smoke  and Sanity testing?
+
+23.css selector and xpath better performance?
+
+24.why constructor cannot be final?
+
+25.what is method?
+
+26.Diff between Abstract class & Interface?
+
+27.What is Class & Object?
+
+28.leap year program.
+
+29.charachter occurence program ?
+
+30.What are the tags in Cucumber?
+
+31.junit annotations?
+
+32.Cucumber annotations?
+
+33.screenshot capturing code?
+
+34.What is Hook in Cucumber?
+
+35.WAP to Reverse String?
+
+36.WAP to Duplicatr Char.
+
+37.WAP to Second Largest No. in Array?
+
+38.What is Exception how to Hadle it?
+
+39.Diff bet For Loop & for each loop?
+
+40.Explain public static void main(String[] args)?
+
+41.What are the Locators?
+
+42.What is Xpath?types of Xpath.
+
+43.write a code for read data from Excel?
+
+44.Verify the Google title(www.google.com)?
+
+46.What is Slenium Grid?.
+
+47.Types of Assert?.
+
+48.Diff bet Verify and Assert?
+
+49.Selenium Exception?
+
+50.Diff bet Close and Quit?
+
+51.Bug Life Cycle?
+
+52.Regresstion Testing?
+
+53.Types of Functional & Non-functional Testing?
+
+54.Agile Methodology?
+
+55.Diff bet Agile & Waterfall?
+
+---------------------**********************--------------------
+ Company-Capgemini
+
+
+1.Tell me something about yourself.
+
+2.Explain your Framework?
+
+3.Diff between Abstract class & Interface?
+
+4.Code for getWindowHandle and getWindowHandles?
+
+5.diff bet Pull &Push.
+
+6.diff bet Severity & priority.
+
+7.Code for  How to Read Excel File?
+
+8. Cross browser Testing?
+
+9 what is POM?
+
+10.diff driver.get() & driver.navigate.to()
+
+11.How to perform Right action ?
+
+12.Rating out of 5 in Selenium and java?
+
+13. Maven and Eclipse latest version?
+
+14. Diff bet latest and old version?
+
+15.How do you convince , if you raise a bug but the dev does not agree?
+
+---------------------------********************-------------------------
+Company-Sweply Technology
+
+
+1>Introduction about yourself.
+
+2>Types of Functional and Non-functional Testing.
+
+3>What is Monkey Testing.
+
+4>What is Regression Testing.
+
+5>Diff bet Alpha&Beta Testing.
+
+6>Annotating of TestNg.
+
+7>Challenges faced in selenium?how to remove this.
+
+8>Revrse string program.
+
+7>Agile Methodolgy.
+
+8>Bug Life cycle.
+
+9>Test Plan.
+
+10>What is Smoke Testing
+
+11>Bug leakage and bug Release.
+
+12>Automation Testing
+
+
+--------------------------------***********************************-----------------------------
+
+
+Company-TCS
+
+
+1>Introduction about yourself.
+
+2>What is mean by Upcasting & Downcasting.
+
+3>oops concept.
+
+4>Explain Git used in your Project.
+
+5>Types of Assert.
+
+6>Verify and Assert
+
+7>how Resolve Merge Conflicts.
+
+-------------------------***************************************************----------------------------
+Company-Capgemini
+
+
+
+1>Brif Introduction about yourself
+
+2>Explain about framework.
+
+3> What is a POM.
+
+4>How to use manage  your object repository?
+
+5>code for count the duplicate word in given string?
+
+6>Sort an  ArrayList using  loop?
+
+7>How to use pom in  your framework?
+
+8>Write down the comments that you used for pom in your framework.
+
+9>imagine that  you hava N no. of browser tabs open in your browser and  you have locate the webelement which is present in any one of this tabs but you don't no which tab is present write the selenium logic locate that 
+ webelement in that scenario.
+
+10> How to toggle on and off button by selenium in java.
+
+---------------------------------------********************************--------------------------------------------------
+
+Company-Capgemini(I-Round)
+
+
+1> Brif Introduction about yourself.
+
+2>Find the Xpath for FROM in redBus.in  
+
+3>What is Ancestor and Sibling.
+
+4>Write a program to insert  Id and Name in HashMap.
+
+5>Iterate HashMap and find the value of 5.
+
+6>Diff Bet Static and Final.
+
+7>Which file is used for Execution.
+
+8>What is Dryrun.
+
+9>What is Hook.
+
+10>What is Before and After hook.
+
+11>Annotations of Junit. .
+
+12>Where the Dependancy store.
+
+13>Which type of Dependancy you store.
+
+14>You are in Notice period. 
+
+
+

@@ -1,0 +1,125 @@
+
+Company:- Tata Technology
+TimeDuraction: 40-45 min
+1st round
+
+1. Can u brief me about yourself ? (Repetated in 2nd round)
+2. Tell me about your Framework ? (Repetated in 2nd round)
+3. What is the POM ?
+4. What are the diffucilties did u face in manual Testing ?
+5. What are the diffucilties did u face in automation testing ?
+6. How will u report the bug ?
+7. What are the different status of Bug ?
+8. What is the functional and non functional Testing ?
+9. Can u tell me the Retesting and Regression testing ?
+10. What is the Synchrinazation and where u will used ?
+11. Execution flow of TestNG Annotation ?
+12. If u will get a chance to work Selenium with TestNG So Are u comfortable with that ?
+13.What is the Agile ?
+14. what is the used of Git and when u used the git merge and pull command ?
+15. What is the Inheritance and Where u used in your framework ?
+16. What is your role and responcabilities in your team ?
+17. find the X-path for google home page at right corner 9 dot ?
+18. Write a program to find the string is palandrom or not (on notepad) ?
+     ex.. String name="radar"; 
+
+
+2nd round 
+
+1. Which is your last project ?
+2. What is the Set Speed and Sleep ?
+3. What is the implicit and explicit wait ?
+4. Tell me about your application ?
+5. As per the sevirity and priority tell me low priority low sevirity and high priority and high sevirity bug in your application u found ?
+6. How the requirments will come to you ?
+7. Where u used extend and impliment ?
+8. Do u involve in manual testing ?
+9. What is the single slash and doubble slash ?
+10. In a X-path how will u decide to which locator u have to used from all the locators ?
+11. How do u rate yourself in selenium ?
+12. Do u have any question for me ?
+
+
+1st round 
+company - Dessult System
+
+1.Tell me about yourself and your current project ?
+
+2. The values for the a=0, b=1,c=2............so on upto z=25 are given;
+   you have to take a any string 
+ ex :- String user="welcome to java";  and assign the value to each char of string and print the 
+  welcome =69;(it is a sum of each char and theire addition is 69)
+  to= ? (char assign values and theire sum)
+ java=?(char assign values and theire sum)
+
+3.prepaire the manual test cases for the scenario given and automate this scenario ?
+  scenario== In a netflix application u will get the massage of subscrication before subscribtion will get over in  5 days and 
+ 3 options are given for this massage.
+        1. yes (if we says yes then it will go and open the payment options)
+        2. No(if we says no then that means u don't want to continew the subscribtion)
+        3. Remind me Later( means it will given the notification agains after few days)
+write a manual test cases for this?
+how u will automate this scenario by selecting the "yes " option.
+4. Do u have any question for me ?
+
+
+Company--TCS
+1. Tell me About yourself ?
+2. Why are u looking for job change ?
+3. What is the Selenoid ?
+4. How to take a screenShoot and write a code on notpad ?
+5. How to perform a mouse hover operaction write a code for it ?
+6. The data stored in 'D' drive in sheet no '0' u have to fetch the data from 1 row and 1 coloum how u 
+     will read the data and write a code for it ?
+7. What is the Object Repositery and how to maintain it ?
+8. What is the Background and Example in Cucumber ?
+9. Can we used the TestNG @BeforeTest and @BeforeClass annotation in place of Background keyward ?
+10. What is the Hooks in a Cucumber ?
+11. Are u involve in manual Testing ?
+12. Do u have any question for me ?
+
+Company--Cognizant
+
+1. Tell me about yourself 
+2. What is your role and responcability in your team ?
+3. If i have to perform click operaction on web element and this element is at the bottom of the page so, how will u perform this action ?
+4. Consider ur executing the script and u have to perform so action but the web locators are not loaded so, how will u handle this ?
+5. Did u involve in manual Testing and what is ur work ?
+6. Write a code for following scenario (notepad):---
+    - open a hoster.com 
+    - click on 'movies' section and from this movies section u have to select 'English'
+    - then whatever the movies avaliable from that select the 'lion King' movie
+    - then u have to fatch the movie time only (1 hr 58 min)
+
+Company--TCS
+1. Give me your brief introduction and role&responcability ?
+2. Tell me about ur FrameWork about locators, and method how ur configuring ?
+3. consider u have to perform action but the web element is disable but attribute is avaliable so, how will u do that ?
+4. consider the test case is failling and it's give the exception like 'element not visiable' so what will u do ?
+5. what is the stale element referance exception have u face it ?
+6.scenario:-- suppose when u open website the Alert pop up is coming with the massage so how will u handle the Alert pop up with massage tell me ur approch in code ?
+7. I have to press the keyBoard 'ctr+alt+d ' button how we can perform by using selenium ?
+8. Did u involve in the API testing ?
+9. What is 300 http staus code ?
+10. What is the differance between put, post, patch request ?
+11. what are the other tools ur are using (devops tool) ?
+12. In a jenkin if test cases get failed so who will handle this ?
+13. Are u involve in pipeline or CI-CD any activity ?
+14. Did u used the fluent wait and what it is ?
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

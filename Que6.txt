@@ -1,0 +1,18 @@
+Betsol
+
+1] Project domain (current project on which you are working)
+2] Rating (out of 10)
+3] What are the main files to run your cucumber testing
+4] After above que(3), you have to extend your answer by explaining feature files, stepdef files and Page object model
+5] Advantages of cucumber BDD framework
+6] Test cases which we do not need to automate
+7] Describe Automation testing life cycle
+
+
+TCS
+1] Can you brief about yourself and experience
+2] How much you comfortable in writing test case using java
+3]If I want you to connect to data base, what are the steps to be followed
+4] Could you brief about your framework on which you are working in your company?
+5] What is desired capabilties in selenium?
+6] How to read excel file in Java code, do you have any idea how to do that?

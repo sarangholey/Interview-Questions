@@ -1,0 +1,89 @@
+
+Company Name:-Vervali System
+
+
+1> Brief Introduction
+
+2> Roles And Resposibility In Your Organasation
+
+3> What Is Agile 
+
+4> Tell me about your Framework
+
+5> What Is POM
+
+6> Difference Between Extend And Impliment
+
+7> What Is Inheritence , Where you Use It In Your Framework
+
+8> What Is STLC
+
+9> Difference Between Driver.get()  And Driver.NevigateTo()
+
+10> Which Version Od selenium You Are Working With
+
+11> What Is Explicit Wait
+
+12> How to Handle Exception
+
+13> What Is Stale Element Exception
+
+14> Write A Program To Find A String Is Palindrome Or Not
+
+
+Company Name:-Infosys LTD
+
+
+1> Brief Introduction
+
+2> Your Roles And Resposibility
+
+3> Tell Brief About your Framework
+
+4> Rate yourSelf In Java
+
+5> Different OOPS Concept
+
+6> What Is Inheritence, Use In Your Framework
+
+7> What Is Different Exceptions
+ 
+8> Difference Between Thow And Throws Keyword
+
+9> Difference Between Final,Finally,Finalize
+
+10> What is Functional Testing
+
+11> Can We Use Try Block Without Catch Block
+
+12> What Is Collection
+
+13> Difference Between Driver.Get() Driver.NevigateTo()
+
+14> Use Of Scenario OutLine
+
+15> What is Current Version Of Selenium
+
+16> How Will You Right Click Without Action Class
+
+17> Have You Use TestNG
+
+18> WHat Is Cucumber BDD
+
+19> What Is Stepdefination File 
+
+20> Different Annotation In JUnit
+
+21> What Is Use Of Action Class
+
+22>What Is Fluent Wait, and Polling period.
+
+23> Difference Between driver.quite() and driver.close()
+
+24>  Which Report Used in Your Project
+
+25> difference Between GetText() and GetAttribute()
+
+
+
+

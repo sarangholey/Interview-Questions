@@ -1,0 +1,58 @@
+Company name : Yash Technology
+
+1. Tell me about ur self?
+2. What is API testing?
+3. Difference between Smoke testing and Sanity testing?	
+4. Write code for prime number in notepad
+5. How to find xpath for whose id is Submit?
+6. there is 10 link is available how to print text of that link?
+7. What is BDD?
+8. What is TestNG?
+9. Where report file is stored?
+10. What is agile methodology? types of methodology?
+
+
+Company name  :   TCS
+
+1. Introduction ,roles and responsibilities?
+2. what is Git?
+3. What is git branching?
+4. what is wait? diff betn implicit wait and explicit wait?
+5. what is abstract class?how many object we can create in abstract class?
+6. what is hook in cucumber?
+7. what is datatables?where do u use?
+8. what is jenkins?
+9. how to excute program in JUNIT?
+10. what is background?
+11. scenario?
+12. scenario outline?
+13. rate urself in java and selenium out of 10?
+
+Company name   : Capegemini
+
+1. Introduction
+2. find xpath for 7 links on amazon website
+3. WAP reverse string a="im from mumbai"
+4. Difference betn scenario and hook?
+5. Types of Collections?
+6. API
+
+company name: Agiliad
+
+1. Introduction
+2. rate urself in java and selenium out of 5
+3. prog I/P :  F9i$r3&e
+	OUTPUT	Fire
+		93
+		$&
+4. difference between list and set
+5. diff between public and protected
+6. Diff between smoke and sanity
+7. how to handle multiple windows?
+8. what is return type of getwindowhandles?
+9. which type of report is generated?
+10. which git commands are used on daily basis?
+11. Desired Capabilities?
+12. After MBA u are doing Automation testing?
+13. Any Questions for me
+

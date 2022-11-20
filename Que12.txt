@@ -1,0 +1,146 @@
+
+Capgemini -                                                                  
+1.	Tell me about your self ?
+2.	Roles and Responsibilty  ?
+3.	Differnce between Scenario  and Scenario Outline ?
+4.	WAP for Palindrome ?
+5.	Explain Framework ?
+6.	How to enter in value in Selenium?
+7.	How to Find Broken Link On Page?
+8.	How to Select DropDown?
+9.	Test Scenario and Test Case differnce?
+10.	How to you give Prefernce to write test cases?
+11.	Which Client you are working For?
+12.	Differnce between X-path & Css Selector?
+CoreFlex Solutions -                                                       
+1.	Tell me about yourself  ?
+2.	diff. Array Vs ArrayList ?
+3.	Differnce LinkMap Vs Hashmap ?
+4.	Where You Write data in your Framework?
+5.	Linkmap Vs Hashset ?
+6.	X-path Vs Css Selector ?
+7.	Explain Bug Life Cycle ?
+8.	how to write Css Selector ?
+9.	Roles and Responsibility ?
+10.	Differnce between Priority & Severity ?
+11.	@ BeforeClass  and @ BeforeMethod 
+12.	What is Maven & How it is Used ?
+Gobolt Solution -                                                          
+1.	Tell Me about YourSelf ?
+2.	Roles and Responsibility  ?
+3.	Manual Testing - Smoke Testing & Regression Testing ?
+4.	What is Secnario Outline ?
+5.	WAP for Multiplication of two no. without using arithmatic operator ?
+6.	Junit Annotation?
+7.	which Type of Framework you used?
+8.	consider the condition if 1000 testcases and we want only 100 test cases what should you do?
+9.	syntax of Fluent wait?
+10.	implicit wait and Fluent Wait ?
+11.	Output For  
+String s1 = "Hello";
+String s2 ="Hello";
+String s3 = new String ("Hello");
+System.out.println(s1==s2);
+System.out.println(s2==s3);                                                                                                                                                                                                                                                                                                                                                                                                                                           
+12.	Agile Methodology ?
+13.	How to write Fail Scenario in Framework ?
+
+Volante Tech-                                                              
+1.	Roles and Responsibility ?
+2.	Explain your Project ?
+3.	How to finding out broken link on Page  ?
+4.	Absolute and Relative X-path ?
+5.	Which X path you Prefered ?
+6.	How many Locators are their ?
+7.	Why you Used Selenium ?
+8.	Selenium Exceptions ?
+9.	Agile Methodology ?
+10.	What is Scrum?
+11.	Explain banking domain Application?
+12.	WAP for factorial ?
+13.	Wap for Reverse the Integer ?
+Capgemini -                                                                          
+1.	What is Automation Testing & What are the benifits of Selenium Automation ?
+2.	What programing Langauge does selenium Allows?
+3.	Downsides to Selenium Automation?
+4.	What is selenium Grid?
+5.	Positive Testing and Negatie Testing With Example ?
+6.	how many Test Cases you automated in a day?
+7.	What is Sprint planing ?
+8.	What is Agile ?
+9.	explain your FrameWork?
+Barquecon Technologies Pvt Ltd .                            
+Round - I
+1.	Roles and responsibility ?
+2.	What is Satic and Non _Static ?
+3.	Abstract Vs Interface ?
+4.	String Buffer Vs String Builder ?
+5.	How to handle Exceptions ?
+6.	java Exceptions ?
+7.	ArrayList Vs LinkedList ?
+8.	ArrayList Vs Array ?
+9.	hashMap Vs HashSet ?
+10.	java exception Keyword ?
+Round-II
+11.	Tell me about Yourself ?
+12.	How to Select Drop down Action?
+13.	How to handle window pop up ?
+14.	How to handle Broken links and Image ?
+15.	How to Perform crossbrowser ?
+16.	java Exception ?
+17.	Framework Explain?
+18.	Agile Methodology ?
+19.	Static variable & Static Class ?
+20.	How to Capture ScreenShot ?
+21.	Expalin your Project ?
+22.	final,finally,finalize ?
+23.	Equal Vs Equals ?
+24.	Git Command ?
+25.	Assert and Verify ?
+26.	junit Annotations ?
+a.	WAP for Remove duplicates Element ?
+Date : 21/8/2022
+TCS :
+1. Tell me about Your Self ?
+2. Opps. Concepts ?
+3. diff. Overloading and Overriding 
+4. Are you aware about java collection and what is that ?
+5. how to handle java Exception ?
+6. main part of cucumber bdd framework
+7. write the Syntax  for: 1) Double Click   Action  2) Right Click Action 
+8. What is feature File ,  Step definition File, Test Runner File .
+9. how to integrate Selenium with Cucumber 
+10. Are you aware about Jenkin 
+11. What is glue in Test Runner file 
+12. what is read data from properties file 
+13. Explain feature file and write Scenarios of login page application. 
+14. What is befits of Automation Testing?
+
+
+SDET C :
+1.	Tell me about yourself?
+2.	Roles and Responsibility ?
+3.	Consider a scenario if the test case is fail then it must be take an screenshot ?
+4.	How to check an fail scenario in selenium?
+5.	How to automate an Audio Captcha ?
+6.	Write a X-path for the Filter present on webpage?
+7.	Consider a scenario in which we having 5 index box with same functionality and we have to automate a last one how you automate and If After few days later the more no. of  index is added in that case what you can do ?
+8.	What is Maven ?
+9.	What is fw & Explain?
+10.	Agile methodologies ?
+11.	Remove garbage value form – abc$sdc$eryhf$$asd$cda
+And Reverse the string?
+12.	String s1 = “HELLO”;
+String s2 = “HELLO”;
+String s3 = new string (“HELLO");
+String s4 = “hello";
+1.System.out.printl(s1==s2);
+2. System.out.printl(s1==s3);
+3. System.out.printl(s1.equals(s2));
+4. System.out.printl2s4.equals(s3));
+
+
+
+
+
+

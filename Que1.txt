@@ -1,0 +1,934 @@
+1] Company- Capgemini
+1. Give your introduction ?
+2. final VS finally keyword
+3. Collection VS Collections
+4. Scenario VS Scenario Outline
+5. Explain access modifiers in Java?
+6. Why we use JavaScriptExecutor in Selenium?
+7. What is BDD ?
+8. What are scrum ceremonies ?
+9. Assert VS verify 
+10. Which problem you face while working on any scenario and how you resolve it ?
+11. Write a code for Hashmap…Put some values in that and print it ?  ……..(Write in Notepad )
+12. Write a logic to fetch only the number 32456789 from given String ? …..(Write in Notepad )
+       (Consider number is dynamic  in nature…..EX. no. of digits in given number  get changed )     
+        Given  String is =>  
+          x = "Standard Order 32456789 is created successfully for the account 789"
+13. Do you have question for us? 
+
+//========================================================================//
+
+2] Company- Newscape Consultancy
+1. Roles and responsibility ?
+2. About your project, which modules are there ?
+3. Explain your framework ?
+4. Which tool you used in BDD ? 
+5. Which language used in cucumber BDD to write Test cases ?
+6. How you decide which test cases need to be automated ?
+7. Which locator strategy you use mostly to locate webelement ?
+8. How to get the all hyperlinks from webpage ?
+9. How to locate the specific webelement on webpage ?
+10. How to handle all opened windows over browser ?
+11. Difference between findElement and findElements method ?
+12. Difference between Set and List ?
+13. What you prefer to handle the multiple opened windows using Set or List ?
+14. Which challenges you face in your company (as you want to switch the company) ?
+15. Why you want to switch a company ?
+
+//=================================================================================//
+
+3] Company- Accenture
+1. Roles and responsibility (Repeat)
+2. Explain your framework ? (Repeat)
+3. Explain Defect  life cycle ?
+4. Have you use Jenkins ?
+5. Give rate to yourself out of 5 for java and selenium ?
+5. Which type of reports generated in your framework ?
+6. Write a code to remove 0 from given number without changing its value ?
+ eg. input= 1.40,,,, then, output= 1.4
+       input= 1.41..... then, output= 1.41
+
+//=================================================================================//
+
+4] Company- L&T
+1. Introduction ?
+2. Explain entire agile process ?
+3. What are activities on jira board ? (They said system board)
+4. How to check the internet connectivity to browser using selenium ?
+5. How to set x cordinate and y cordinate in selenium to do click action on webpage ?
+6. Explain Association in Java ?
+7. Explain Composition in java ?
+8. write a code for hashmap and sort the values of hashmap ?
+9. What is activity between in progress and done in jira board ?
+10. Which activity do in scrum ceremonies ?
+11. Write a database querie to find 5th highest salary from database ?
+12. Have you do performence testing, API testing ? 
+
+//=====================================================================//
+
+5] Company- Capgemini
+1. About your graduation ?
+2. Address of your company ?
+3. Your designation in company ?
+4. Have you work on API testing ?
+5. write syntax for relative xpath ?
+6. which locator statergy is more preferable ?
+7. What is velocity in Agile ?
+8. Rate yourself out of 5 for Java and selenium ?
+9. Write a code to reverse the given number , number is 12345 .....Explain the code ?
+10. What is the output of following code ?
+       int var= 5;
+       System.out.println(++var);
+       System.out.println(var++);
+       System.out.println(var);
+
+11. Your  prefered location ?
+12. Which version of selenium you use ?
+13. What is return type of findElement and findElements ?
+14. If findElement method is not find locator on DOM, then what is exception you get ?
+
+//=====================================================================//
+
+6] Company- Altimetrik
+1. What is static ?
+2. What is final ?
+3. What is overloading ?
+4. What is overriding ?
+5. What is interface ?
+6. Why we have static methods in interface ?
+7. What is webservices ?
+8. Which webservices you used ?
+9. How to handle the exception ?
+10. Can we use multiple try- catch blocks in try clock ?
+11. Can we use multiple try- catch blocks in catch clock ?
+12. Can we use multiple catch blocks with single try block ?
+13. Can we use multiple try- catch blocks in single try block ?
+14. Can we use multiple try- catch blocks in single catch block ?
+15. Can we use multiple catch blocks with single try block ?
+16. Can we use try block without catch block but with finally block ?
+17. Can we  write functional code inside catch block ?
+18. How to locate a 5th searchbox if we have 10 searchboxes available on webpage (Consider all serachboxes have similar attribute values)?
+19. How to launch an URL ? Give its syntax ?
+20. What you use if we want to execute a scenario for multiple parameters , Scenario or Scenario Outline ?
+21. What is Scenario keyword in feature file ?
+22. What you do if reproducible bug is there and developer is not agree with you and he want to close/ ignore that bug, then how you convince him ?
+23. What is Junit? 
+24. What is the hooks ?
+25. Tell me about request commands in API testing ?
+26. Have you use TestNG ?
+27. Any question for me ?
+//=====================================================================//
+
+7] Company- Capgemini (1st round )
+1. Introduction
+2. Explain Agile ceremonies ?
+3. Do you use TestNG ?
+4. Do you have knowledge of API testing ?
+5. Write code to fetch the all links of gmail.com ?
+6. Write code to get color and font size of webelement ?
+7. Write code to mouse action which click on dropdown button ?
+8. Write code to drag and drop action for webelement ?
+9. Write code to take a screenshot ? 
+10. Find the Xpath for fetching  siblings of "SELENIUM" text which is under the text "A few of our most popular courses" on given webpage ? 
+      URL is "https://demo.guru99.com/test/guru99home/"
+      Note - The text "A few of our most popular courses" is at bottom of page. 
+11. Explain output for given code ?
+  code is ===>
+   int num= 5;
+   System.out.println(++num);
+   System.out.println(num++);
+   System.out.println(num);
+12.From where you do the courses for automation? .... And which tools you learned in that course?
+13. Any question for me ?
+//==============================================================//
+
+8] Cognizant 
+1. Introduction ?
+2. What are agile ceremonies ?
+3. What is story points ? How you give story pointer ?
+4. How many developers and testers in your team ?
+5. Have you do manual as well as automation testing ?
+6. Explain your current project ?
+7. How  define story pointer  in your organization, Developer + tester or individual ?
+8. What you do if you have 5 pointer story and only 1 day in your hand ?
+9. Difference between epic and story ?
+10. What you do once you get user story ? Explain it sequencelly ?
+11. Difference between findElement and findElements ?
+12.Difference between driver.close()  and driver.quit() ?
+13. Difference between  TDD and BDD ?
+14. Difference between absolute xpath and relative xpath  ?
+15. What is cucumber BDD ?
+16. What is keywords in cucumber ? Explain each keywords ?
+17. What is stepdefination file ?
+18. Write test case for test scenario ,,,, test scenario is -> user click on login button  (Part of manual testing)
+      URL-  www.facebook.com
+19. What are annotations in Junit ?
+20. Write test script for above same scenario? (Launch URL then Calculate xpath for username, password, login button ...then click on login button )
+21. How to set different resolution of window without using maximize  method ?
+22.. How to handle alert popup where need to enter credential like username and password ?
+23. How to dismiss the alert ?
+24. What are Assert methods ?
+25. What is AssetEquals()?
+26. What is AssetSame()?
+27. What is AssetTrue()?
+28. What is AssetThat()?
+29. How send text in textBox without using sendKeys method ?
+30. How to run single test script for 10 times in Junit ?
+31. What you do if text script executed in chrome fine but same text script get failed in firefox ?
+32. Which browser you use mostly for multiple browser testing and which versions ?
+33. How you execute same test script on multiple browsers ?
+34. What is your role at the time of release ?
+35. How to identify  the broken links ?
+36. Significance of 5xx series ?
+37. Significance of 4xx series ?
+38. Significance of 401 code ?
+39. What is the use of switchTo() ?
+40. What is the use of navigate() ?
+41. Can we automate captcha using selenium ?
+42. As you said, you do manual as well as automation testing, How you do both for any story ?
+43. What types of channels of your current project ? (means whether project run as mobile app or webapplication )
+44. Any question for me ?
+
+//=======================================================//
+
+9] Baker Hughes
+1. Introduction
+2. Write code to print the pattern . Pattern is -> (Note- All code written in Eclipse IDE  and try to run it)
+	1
+	0 1
+	1 0 1
+	0 1 0 1
+                1 0 1 0 1
+
+3. Write code to find smallest and largest value from array? Array is -> int[] a= {2,6,7,9,1,0,5,6,11,23,40};
+4. How many ways to create object of String class in java ?
+5. How many objects got created for given code  -> 
+                                                           String x= "abc";
+                                                           String y= "abc";
+
+6. How many objects got created  for given code -> 
+                                                            String x= "abc";
+                                                            String y= new String ("abc");
+
+7.How many objects got created for given code-> 
+                                                           String x= new String ("abc");
+                                                           String y= new String ("abc");
+
+8. How to compare two integer type arrays?
+9. How to handle dropdown ?
+10. When we use for loop in case of handling dropdown ?
+11. Write syntax of implicit wait and explicit wait ? Explain difference between them ?
+12. Can we use ChromeDriver driver= new ChromeDriver() instead of WebDriver driver= new ChromeDriver() ?
+13. Can we use WebDriver driver= new WebDriver() ?
+14. What is scenario outline , background keywords ?
+15.What is profile in cucumber ?
+16. What is need to run test scenario in cucumber ?
+17.What will be the output of the following program
+class A
+{
+
+}
+
+class B extends A
+{
+
+}
+
+class C extends B
+{
+
+}
+
+public class MainClass
+{
+static void overloadedMethod(A a)
+{
+System.out.println("ONE");
+}
+
+static void overloadedMethod(B b)
+{
+System.out.println("TWO");
+}
+
+static void overloadedMethod(Object obj)
+{
+System.out.println("THREE");
+}
+
+public static void main(String[] args)
+{
+C c = new C();
+
+overloadedMethod(c);
+}
+
+18. What is Runwith annotation ?
+19. What is fluentWait ?
+20. Have you knowledge of API testing ?
+21.Return type of findElement, findElements, getWindowHandle, getWindowHandles ?
+22. Difference between quit and close ?
+23. Which locator you use mostly ?
+24. Locate searchBox of google.com using  relative xpath without using any attribute value ? 
+25. Locate searchBox of google.com using  absolute xpath ? 
+26. Write 5 test cases for validate the given image is traingle ?
+27. If you have 30,40,60 degree angles for same traingle then, how you validate that this is a traingle ?
+28. Any question for me ? 
+
+//===============================================//
+10] Capgemini
+1. Introduction
+2. Explain framework ? is it hybrid or BDD ?
+3. What is dryrun cucumber Option ?
+4. Explain flow of execution of stepdefination file ? (Start from before hooks, testcase, after hook)
+5. Which reports used in your project ?
+6. Write a test script for one scenario , Scenario is =>
+     User login to ecommerce application, Enter product name in serachbox, add product to cart and validate it with actual one.
+7. Write code to handle Alert popup ?
+8. How to handle dropdown ?
+9. What is starting index number of dropdown?
+10. If dropdown button for selection of months in calender. We want to select march month and default month on dropdown button  
+     is January , then what index number you choose to select march month ? And default month on dropdown button  
+     is 'Month' text , then what index number you choose to select march month ? How to write logic for select march month for above 2 cases?
+1. Difference between implicitlywait and explicit wait ?
+12. What is use of this keyword ?
+13. What is use of super keyword ?
+14. Is final class gets inherited ?
+15.Which exception you get mostly while executing test script ?
+16. How you fetch the test data for testing purpose ?
+17. Have you use TestNG ?
+18. getText() Vs getAttribute() ?
+19. Are you communicate/ interact with clients ?
+20. Any question for me ?
+
+//===============================================//
+11] TCS
+**** 1st Round ****
+1. Roles and responsibilities ?
+2. Have you do mobile app manual testing ?
+3. Have you do API testing ?
+4. get()  Vs navigate() ?
+5. What is stepdefinition ?
+6. What is feature file ?
+7.  What is BDD ?
+8. findElement VS findElements ?
+9. What is Scenario Outline ? Give its one example ?
+10. What is datatable ?
+11. Explain framework ?
+12. How to fetch a test data in stepdefination file ?
+13. What are junit annotations ? Explain them ? 
+14. Rate youreself out of 5 for Java programming ?
+15. What is exploratory testing ?
+
+**** 2nd Round ****
+1. Roles and responsibilities ?
+2. Explain your daily activity ? 
+3. What is test coverage ?
+4. defect Vs bug ?
+5. When we do System testing ?
+6. How you track a bug? How you work in bug life cycle ?
+7. How you do manual testing ?
+8. Any offer in your hand ?
+
+//===============================================//
+12] Capgemini (2nd round) [1st round - 21/08/2022]
+1. Introduction
+2. What is static keyword ?
+3. Explain Framework ?
+4. Explain agile ceremonies ?
+5. Open the Amazon on browser and locate dynamic posters using xpath. How many posters of products are there? Also, locating 4th poster ?
+6. Write a code to access a data from notepad file ? Write userdefined method for it which returns desired data by passing it parameter ?
+7. What is your notice period ? Are you serve it ? 
+8. Where your company located in pune ?
+9.What is your current CTC and expected CTC ? 
+10. Your prferred location ?
+11. What is your designation in your company ?
+
+//===============================================//
+13] Company- Capgemini
+1. Introduction
+2. Roles and responsibilities ?
+3.What is WebDriver driver= new ChromeDriver() ?
+4. What is ChromeDriver driver= new ChromeDriver() ? is it right way to initialize driver ?
+5. What are locator stratergies ?
+6. If we have common id for 5 elements and we want to locate 3rd element, then how you do that ?
+7. findElement Vs  findElement
+8. Difference between '/' and '//' ?
+8. What is '//*'?
+9. StaleElement Exception ? How to resolve it ?
+10. How you put efforts for doing manual and automation in one sprint ?
+11. Do you raise PR review for test script ? Who review it ?
+12. How to handle authentication pop up ? 
+13. Write a code to send text to textbox without using sendKeys method ?
+14. Do you maintain page factory in page object model in your current project ?
+15. How to initialize driver in each page class of page object model ?
+16. Scenario Vs Scenario Outline ?
+17. What is monochrome cucumberoption?
+18. getText Vs getAttribute ?
+19. How to know a font size of webelement ?
+20. WebElement is a class or interface ?
+21. Write a java code to fetch only month from given date ?  String date="20/05/2001";
+22. Write a code to access only even values from array and store them in another array ? Array is- > int Data[]= {5,10,30,40,50,45,37};
+23. method overloading Vs method overriding ?
+24. List Vs Set ?
+25. What is output of following code ?
+      static int x= 10 ;
+      x=30;
+     System.out.println(x);
+
+26.What is output of following code ?
+      final int x= 10 ;
+      x=30;
+     System.out.println(x);
+27. What is string immutable ?
+28. for loop Vs enhanced for loop ?
+29. What is output of following code ?
+     String x= "abcd";
+     String x= "pqr";
+     System.out.println(x);
+30. What is output of following code ?
+     String x= "abcd";
+     String y= "pqr";
+     System.out.println(x==y);
+31. What is output of following code ?
+     String x= "abcd";
+     String y= "pqr";
+     System.out.println(x.equals(y));
+32. What is typecasting ?
+33. What is wrapper class ?
+34.  Abstract class Vs Interface ?
+35. Is it possible 'abstract class implements I1' , Can we use interface to implement the abstract class ?
+36. Is it possible 'interface I1  implements abstract class' , Can we use abstarct class to implement the interface ?
+37. Do you work on only one project in your organization ?
+38. Any question for me ?
+
+//===============================================//
+14] Company-Growexx
+     No. of interviewers = 2
+
+1. Introduction
+2. Roles and responsibilities ?
+3. verification Vs Validation ?
+4. Expalin your framework ?
+5. priority Vs severity ?
+6. Give one example of scenario which have high priority and low severity from your project ?
+7. How you convince to developer that is a bug in build ?
+8. How you convince to QA lead and developer lead that bug is there in build if they are denied ?
+9. What you do if bug present in production ?
+10.  Who is responsible for analyzing product requirement ?
+11. How to set priority for bugs ?
+12. What are attributes in cucumber framework ?
+13. What is feature file , Stepdefinition file ?
+14. What is gherkin language ?
+15. What is scenario outline ?
+16. QA Vs QC ?
+17. UI Vs UX ?
+18. What is adhoc testing ?
+19. Which testing you do first when build is available in QA environment ?
+20. When you do automation testing ?
+21. Who and how decide which scenarios are go for manual and automation testing ?
+22. Which scenarios are automated ? Is 100% automation possible ?
+23. Give one scenario example from your project , that a scenario is hard to automate ?
+24. Is any situation you face where any scenario is go for automated but after that it shift to manual testing ?
+25. functional testing Vs non-functional testing ?
+26. What are tools for compatibility testing ?
+27. Any question for me ?
+
+//===============================================//
+
+15] Company-TCS ( 3rd round -> technical + managerial)
+     No. of interviewers = 4 (Technical- 3, managerial- 1)
+
+1. Introduction
+2. What is your daily activity ?
+3. Explain bug life cycle ? What are status to the bugs ?
+4. How you handle the requirement get change in middle of development ?
+5. If id same for all 10 elements and how to click on 6th element ?
+6.For above issue , are going for which approach xpath with axis or List collections ?
+7. Can we use arraylist instead of list for above same issue ? Which is more reliable list or arraylist ?
+8. get Vs navigate ?
+8. Have you do database testing ?
+9. What is difference between following 2 lines ....
+  String s1= new String ("welcome");
+  String s2= "Welcome";
+10. Which approach you use in code from above 2 lines for string data ?
+11. How you manage a memory if a variable take same value multiple times ?
+12. Can we create static method under instance method ? How to call static method ?
+13. Can we create instance method under static method ? How to call static method ?
+14. If class B extends class A, then what is meaning of following lines ?....
+ class A  a1= new Class A ();
+ class B  b1= new Class B ();
+ class A  a2 = new Class B ();
+ class B  b2= new Class A ();
+
+15. How you handle the environment down situation ?
+16. If you have 100 test cases for automation, then how you pick up test cases from it for automation ?
+17. Which scenarios are select for automation ?
+18. What is domain of your current project ?
+19. Which is largest module in your project ?
+20. Which module is currently you working ?
+21. What is your team size ?
+22. Which problems you face while automating any module ?
+23. Have you solve any critical bug which mostly raised after each build ?
+24. How strong is your problem solving and  problem analytical approach ?
+25. Your expected CTC in terms of percentage ? current CTC ?
+26. Are you ready to relocate to Mumbai ?
+27. Are you ready to work on banking domain ?
+28. In initial phase, are you ready to work on Linux , oracle by observing and understanding from seniors  ? 
+29. Which sessions of scrum you are participated in it ?
+30. Have you execute regression pack ? why regression testing is required ?
+31. Any question for us ?
+
+//===============================================//
+
+15] Company-Capgemini
+1. Introduction
+2. Roles and responsibilities ?
+3. Which type of testing you do ?  
+4. Disadvantages of manual testing ?
+4. Write a code to count rows and column (Firstly create table and enter some values in each cells)?
+5. Write a code to close a child window ?
+6. Write code to handle dropdown list and click on desired option ?
+7. Any question for me ?
+
+//===============================================//
+
+16] Company- Optum (1st technical round)
+1. Introduction
+2. Roles and responsibilities ?
+3. What is process you follow when user story is assign to you ?
+4. Explain framework ?
+5. How you switch to different environment while performing multiple platform testing ?
+6. How you close the browser after regression execution done ?
+7. Find the xpath for one webelement ? (selenium.dev is the website where documents is a webelement)
+8. What is method for right click ?
+9. How to reverse a string ?
+10. How you fetch multiple data (e.g. serach a product is a scenario and enter each product name in test script ) in test script ?
+Have you fetch it from excel sheet and how ? After fetching that data in script, where it get maintained/ stored ? 
+If you maintained that data in hashmap, then how you store 9*9 rows-column data in map ?
+11. Write code to find prime numbers from 1 to 10 ?
+12. Write code to put keys and values inside hashmap ?
+13. Any question for me ? 
+
+//===============================================//
+
+17] Company- Growexx (TR + HR round)
+1. Introduction
+2. Roles and responsibilities ?
+3. What is process you follow when user story is assign to you ?
+4. How you manage manual and automation in one sprint ?
+5. How you know your test coverage is 100 % ?
+6. Have you write test script according to acceptance criteria ?
+7. Give 5 scenarios to check functionality of earphone ?
+8. What you do to achieve 100 % test coverage ?
+9. Which type of documents you prepared in sprint ?
+10. Which type of testing you do manually ?
+10. why you want to switch the current company ?
+11. What are career perspectives for you in our organization ?
+12. Are you comfirtable to do full manaual testing for few months ?
+
+//===============================================//
+
+18] Company- Euronet 
+1. Introduction
+2. Roles and responsibilities ?
+3. How you choose scenarios for automation ?
+4. Explain framework in detail ?
+5. Explain your project ?
+6. What is headless browser and how it work ?
+7. How you handle dynamic product list in your project ?
+8. What is flow of automation  work in your organization ?
+9. What is maven ?
+10. What is page object model ? page factory ?
+11. Why you use the junit ? Junit Vs TestNG ?
+12.How you perform parallel execution ?
+13. What is logs ? How you maintain them ?
+14. Which type of reports used ?
+15. How you attach screenshot to reports ?
+16. How to create new branch in github ?
+17. How you maintain the all test cases ?
+18. How to make comment in github ?
+19. Any question for me ?
+
+//===============================================//
+
+19] Company-Capgemini (1st technical round)
+1. Introduction
+2. Explain framework in detail ?
+3. What is breakpoints in code ?
+4. List vs Set ?
+5. absolute xpath Vs relative xpath ?
+6. Create xpath for searchbox and add shortcut button of google ?
+7. Write code of fibanocci series ?
+8. Abstact class vs interface ?
+9. Annotations of Junits ?
+10. How to handle the multiple windows ?
+11. Any question for me ?
+
+//===============================================//
+
+20] Company- E&Y(Ernst & Young)
+1. Introduction
+2. Roles and responsibilities ?
+3. Explain framework in detail ?
+4. What is page object model ?
+5. What is string ?
+6. What is collection ?
+7. What is oops concept ?
+8. What is method overloading ?
+9.  What is method overriding ?
+10. Why constructor cannot be overrided ?
+11. How to handle window popup ?
+12. How to handle the frames ?
+13. How to send text to textbox if it is disable ?
+14. Write code to send the text to textbox using javascriptexecutor ?
+15. How to send a text to textbox other than javascriptexecutor way ?
+16. What is assertion and its types ?
+17. How to take a screenshot ?
+18. What is inheritence and its types ?
+19. Why we can achieve multiple inheritence using interface only ?
+20. Write a code to swap a 2 numbers without using any third variable ?
+21. Write a code to count number of words in string using hashmap ?
+22. What if String a= "abc";
+                  String b= "abc";
+                  String c= new String ("abc");
+23. What is output of code -> 
+      System.out.println(a==b);
+      System.out.println(a==c);
+      System.out.println(b==c);
+24. How to highlight any webelement ? 
+25. Syntax of scenario outline ?
+26. Explain JDK architecture ?
+27. Explain Selenium Webdriver architecture ?
+28. Any question for me ?
+
+//===============================================//
+
+21] Company- Optum (2nd technical round)
+1. Introduction and your daily activities ?
+2. Explain the framework ?
+3. Have you use any reusable methods in utilities ? Give one example ?
+4. Write code of default and parameterized constructor ? How to call one constructor from another constructor ?
+5. Write code to reverse the words in string ?
+6. Write code to check duplicate words in given string ?
+7. What is maven ?
+8. Where you execute regression pack ? How many test cases in regression pack ?
+9. How you configure the remote machine to do parallel execution ?
+10. What configuration is require to execute test cases parallely on any machine if having cucumber and maven ?
+11. Have you use jenkins ?
+12. What are scrum meetings ? 
+13. Write code to switch from one child window to another child window and come back to parent window using userdefined methods ?
+14. Write code for hashmap ?
+15. What is return type of keyvalues() method of hashmap ?
+16. What is t-shirt sizing in jira tool ?
+17. Any question for me ?
+
+//===============================================//
+
+22] Company- REI System (1st  technical round)
+1. Introduction and your daily activities ?
+2. Roles and resposibilities ?
+3. Write code to access data from exel file ?
+4. xls file Vs xlsx file ?
+5. Actions class Vs Robot class ?
+6. How to handle pop up ?
+7. Write code to identify duplicate characters from string using list ?
+8. Write code for fetch all links from the webpage ?
+9. Are you ready to learn the API testing ?
+10. Any question for me ?
+
+//===============================================//
+23] Company- Capgemini (TR + MR round)
+1. Introduction and roles and resposibilities ?
+2. Have you use TestNG ? Are you ready to work on TestNG ? 
+3. Calculate the xpath for link of given website without using linktext ?
+4. Write code for send keys to textbox using javascriptexecutor ?
+5. List Vs Set ? 
+6. Which you prefered from list and arraylist ?
+7. How you access the test data from your framework ?
+8. How you handle the work in 2 week of sprint ?
+9. How to locate the frame without its tagname and id ?
+10. How you switch from one environment to another environment ?
+11. How you handle the regression execution in each sprint ?
+12. What meeting you attain in agile env ?
+13. What are your achievements  in last 2 years ?
+14. How you collaborated in your team ?
+15. Who is present the work in sprint review meeting ?
+16. Write code to fetch data from excel sheet and store in hashmap ?
+17. How decide which test case go for manual and automation ?
+18. If bug found in production stage what you do ?
+19. Any question for me ?
+
+//===============================================//
+24] Company- Optum (Managerial round)
+1. Introduction and roles and resposibilities ?
+2. What are your hobbies ?
+3. What are your achievements  in last 4 years ?
+4. Have you suggest any idea or planning to your QA lead ?
+5. How many story pointer you given  mostly ?
+6. Are you ready to relocate to hydrabad ?
+7. Are you ready to work on insurance domain ?
+8. A person has 3000 bananas and a camel. The person wants to transport the maximum number of bananas 
+to a destination which is 1000 KMs away, using only the camel as a mode of transportation. 
+The camel cannot carry more than 1000 bananas at a time and eats a banana every km it travels. 
+What is the maximum number of bananas that can be transferred to the destination 
+using only camel (no other mode of transportation is allowed). 
+9. There are 9 coins, all except one are the same weight, the odd one is heavier than the rest.
+ You must determine which is the odd one out using an old fashioned balance. 
+You may use the balance twice. Explain how this can be done.
+10. What is your plan for next 2 years in terms of career ? 
+11. Any question for me ?
+
+//===============================================//
+25] Company- Neutro Tech system 
+1. Introduction ?
+2. Explain framework ?
+3. How many test cases you execute in day ?
+4. List Vs Set ?
+5. findElement Vs findElements ?
+6. How you maintain POM ?
+7. getWindowHandles Vs getWindowHandle ?
+8. How you fetch all options from dropdown list ?
+9. Static Vs final ?
+10. Bdd Vs TDD ?
+11. What is stepdefination and testrunner file ?
+12. Explain some cucumberOptions ?
+13. What is sequence of testing you follow ?
+14. How you do 30 % of manual testing ?
+15. What is API ?
+16. Write code to reverse a string ?
+17. Write a code to swap the 2 numbers without using any third variable ?
+18.  Any question for me ?
+
+//===============================================//
+26] Company- REI system pvt Ltd (2nd round)
+1. Introduction
+2. Roles and resposibilities ?
+3. How you do 30% manaual testing ?
+4. Who decide the priority of test cases ?
+5. How you decide which test cases go for automation ?
+6. How you handle the dynamic webelement ?
+7. Write one example of scenario outline in gherkin structure ?
+8. Write same above scenario outline in scripting format ?
+9. how you pass the test data in test case ?
+10. TDD Vs BDD ?
+11. What is data driven ?
+12. Write code pf parameterized constructor ?
+13. How many test cases you automate in day ?
+14. How many test cases in your regression pack ?
+15. Can we execute 30 test cases in one day ?
+16. What is collection ?
+17. Where you use collection in your framework ?
+18. Have you send the reports to PO ?
+19. Who present the work in front of PO in sprint review meeting ?
+20. What is your approach if you have 10 test cases to be automate ?
+21. What is breakpoints ?
+22. Actions Vs Robot class ?
+23. Can we use hashmap to handle multiple data in test case ?
+24. Any question for me ?
+
+//===============================================//
+27] Company- Wipro
+1. Introduction 
+2. What is string ?
+3. How handle the popup ?
+4. What is severity and priority ? Give one example of low priority and high severity ?
+5. What is use of actions class ?
+6. Can we write WebDriver driver= new WebDriver () ?
+7. Write a code for generating a extent report ?
+8. How to connect the database to webdriver ?
+9. How to take a screenshot ?
+10. How to handle the dynamic frame ?
+11. How to inspect a frame if it have not id, name ?
+12. What is instruction to push and pull code to or from github repository ?
+13. What is instruction for commit a message in git bash ?
+14. Write a code to find 2nd highest no. given array ?
+15. Write xpath for given element ?
+16. Any question for me ?
+
+//===============================================//
+
+28] Company- Altemetrik  (2nd round)
+1. Introduction
+2. Roles and resposibilities ?
+3. What is errors in following code ?
+private interface I1
+{
+public void m1()
+{
+
+}
+public void m2()
+{
+
+}
+}
+public class A1 extends I1
+{
+I1 ref= new A1;
+ref.m1();
+}
+
+4. What is string immutable ?
+5. What is interface? Why we cannot create its object ?
+6. What is abstract class ? Why we cannot create its object ?
+7. What is static keyword ?
+8. Write one code using try catch block ?
+9. When we use string literal in code ?
+10. When we use stringBuffer in code ?
+11. How to read data from excel ?
+12. What is return type of driver.quit() ?
+13. Write code to shift all 0's from given array at right side and then remaining numbers arrange in ascending order ?
+array is -> {-1,5,8,20,46,0,41,-9,0,1,7,0,6,0}
+14. Write code to swap 2 numbers without using third variable ?
+15. What is webdriver ?
+16. Where you use upcasting in your framework ?
+17. Explain selenium webdriver architecture ?
+18. What is method hiding ?
+19. Why static method cannot be overrided ?
+20. Where you use method overloading in FW ?
+21. HOw many objcets get created in below code ?
+String a= "abc";
+String y= "xyz";
+String c= "abc";
+String G= new String ("xyz");
+22. Any question for me ?
+
+//===============================================//
+29] Company- Bajaj Finserve (1st round)
+1. Introduction ?
+2. Role and resposibilities ?
+3. Rate yourself in Java and Selenium out of 5 ?
+4. List Vs Set ?
+5. What is mostly use arraylist or list ?
+6. In your framework , where you use arraylist ?
+7. Write code to reverse a string ?
+8. Find the xpath of India flag on google after searching India in search box of google ?
+9. What are locater statergy ?
+10. Relative Vs Absolute xpath ?
+11. Write code to find no. of character from given string ?
+String is -> String a= "India123";
+12. Write code for hashmap ?
+13. What are different methods of String ?
+14. Interface Vs Abstarct Class ?
+15. Any question for me ?
+//===============================================//
+
+30] Company- Capgemini (2nd Round)
+1. Introduction ?
+2. Role and resposibilities ?
+3. Explain your framework ?
+4. What is String immutable ?
+5. How many objects get craeted in below code ?
+ String str= "India";
+String x= "India456";
+String y= "India";
+6. What is page object model ?
+7. How you call the methods from POm in stepdefination file ?
+8. How you manage manual and automation testing in one sprint ?
+9. What is way to call private methods of parent class in child class ?
+10. What is ApI ?
+11. What is your statergy to find a bug in build ?
+12. How you decide the user story pointer ?
+13. Epic Vs User story ?
+14. Write code to takes shreenshot and attach to report ?
+15. Wriet a code to send a keys to serachbox without using sendKeys method ?
+16. Wriet a code to click on element without using simple click  method ?
+17. Where you use topcasting and downcasting in your code ?
+18. What is typecasting , Give one example ?
+19. Wriet a code to find total no. of hyperlinks on webpage ?
+20. How you handle multiple opened windows ?
+21. Can we automate a captcha ?
+22. How you do parallel execution in your organization ?
+23. When you do regression testing ?
+24. Junit Vs TestNG ?
+25. If you have 20 test cases and you want to execute only 10 out of them, How to achieve this ?
+26. Where you use interface in your FW ?
+27. Method hiding Vs method Overriding ?
+28. Have you given any suggestion to your team memebers ?
+29. Any question for me ?
+
+//===============================================//
+
+31] Company- CBSiGlobal (Client- Vertafore) (1st Round)
+1.Introduction ?
+2. Role and resposibilities ?
+3. What is use of interface ?
+4. What are interfaces in selenium webdriver ?
+5. Calculate xpath for text on webpage ?
+6. Calculate xpath for last button if we have dynamic no. of button on page ?
+7. What is staleElelemntReference Exception ? How to handle it ?
+8. How to handle dynamic element if its position changed every time on webpage ?
+9. Write a code to remove $ from given string ?
+string is -> abc$cbd$a$aab$b$acd$
+10. How many objects created from above same code ?
+11. Write code to reverse this string ? 
+String is -> abc$cbd$a$aab$b$acd$
+12. Where you use abstract class in your framework ?
+13. How to check the colour and size of webelement ?
+14. What is Stream in java ?
+15. Write a code to read data from txt file ?
+16. static Vs final 
+17. Write code for try- catch-finally block ? 
+18. How to declare any customized exception in java ?
+19. Any question for me ?
+
+//===============================================//
+
+32] Company- Bajaj Finserve (2nd Round)
+1.Role and resposibilities ?
+2. How you use Jira tool ?
+3. What are different sections in Jira board ?
+4. When you do regression testing ?
+5. regression Vs Sanity ?
+6. How many times you do sanity testing for any story ?
+7. What are reports you generated ?
+8. When you do feasiblity anaysis for test cases to automate ?
+9. What is your approach to automate 10 test cases ?
+10. What is your approach for 3 pointer story ?
+11. Have you face challenge if Po want to automate whole story ?
+12. How many test cases in your regression pack ? Out of which how many you have automated ?
+13. How you handle the scenario like user fail to pay on payment page ?
+14. Sprint meeting ?
+15. Any question for me ?
+
+//===============================================//
+
+33] Company- Infosys 
+1. Introduction 
+2. Actions class and its methods ?
+3. How to handle dropdown ?
+4. How to handle multiple windows ?
+5. Write a code to check both arrays are equal or not ? and check its length same or not ?
+Arrays are--> int [] a= {1,2,3,4};
+                      int [] b= {2,1,4,3};
+6. Write code to remove a space from given string ?
+7. equals Vs == operator ?
+8. List Vs set ?
+9. What is hashmap ?
+10. Write a querie to find 2nd highest salary from table ?
+11. calculate xpath for menu button on google map ?
+12. Any question for me ?
+
+//===============================================//
+
+34] Company- CBSiGlobal (Client- Vertafore) (2nd Round)
+1. Introduction 
+2. Role and resposibilities ?
+3. Explain your framework ?
+4. Write a testrunner file ? Explain each cucumberOption in this file ?
+5. What is use of page factory ?
+6. How you execute multiple scenario parallely ?
+7. How you execute multiple feature file  parallely ?
+8. Write a code for constructor use in page object model ? What is its use ?
+9. Write a scenario in gherkin structure using datatable ?
+10. Write a method to read a datatable in script ? What are different way to read it ?
+11. How to handle dynamic webelemnt ?
+12. Write a code to print characters and its occurence frequency for given string ?
+13. How to read data from datatable which have 2 column and 2 rows ?
+14. Write a code to switch to each frame and check whether particular image available in that frame or not ? Consider the no. of frames are dynamic in nature ?
+15. How to change a tags cucumberOption at a runtime ? (Not from testrunner file)
+16. Why you use encapsulation istead of page factory in POM ?
+17. Any question for me ?
+//===============================================//
+

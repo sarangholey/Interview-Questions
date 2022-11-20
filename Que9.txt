@@ -1,0 +1,83 @@
+Interview questions
+
+1.tell me something about yourself.
+
+2.where have you used overloading and overriding concept in your framework?
+
+3.what is interface?where u used interface in your project?
+
+4.if u are working on search functionality what are the different ways u can change the script?
+
+5.what are the factors for test autoation framewwork?
+
+6.where have u implemented oops concepts in your project and why?
+
+7.explain hashmap and hashtable?
+
+8.what is iterator?what is list iterator?
+
+9.which the biggest bug you have founnd and how did you resolved it?
+
+10.how to fetch value from hashmap?
+
+11.if there is blue colour tshirt on the webpage how will you change the script if the colour is changed?
+
+12.which test cases will you select for automation?
+
+13.when is project released in your company?
+
+14.who decides the sprint cycle?
+
+15.have you been the part of sprint planning?what is discused there?
+
+16.components of your framework?
+
+17.why bdd?
+
+18.git clone?
+
+19.wap for finding occurence of word and lenthg of string eg.this is this
+
+20.what is typecasting
+
+21.java script executer code
+
+22.if manual tester have not given u script how will you automate
+
+23.css selector and xpath better performance?
+
+24.why constructor cannot be final?
+
+25.what is method?
+
+26.how will you pass string value in feature file?
+
+27.100 customers data how will you write script?
+
+28.leap year program.
+
+29.charachter occurence program ?
+
+30.in junit if we add random test case then how the script will execute from begining or only one new test case?
+
+31.junit annotations?
+
+32.what is beforeclass annotation in junit?
+
+33.screenshot capturing code,explicit wait code?
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

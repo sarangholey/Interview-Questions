@@ -1,0 +1,150 @@
+ CAPGEMINI
+1.How will you handle authentication popup?
+2.Difference between string & string buffer.
+3.Difference Between Alpha testing beta testing.
+4.Difference Between Regression testing & Retesting.
+5.WAP for reverse string "WELCOME"
+6.Difference Between Abstract & Interface.
+7.What is String.
+8.Agile & Scrum Process, Sprint Planning 
+Who does it? How to do it?
+9.What is action class? Syntax for Right click.
+10.Difference Between Scenario & Scenario Outline
+11.BUT keyword. How we use it in feature file.
+12.Constructor & its types?
+13.Throw & Throws.
+14.Cucumber Framework.
+15.Accent Class? 
+16.Difference Between Chromedriver & Webdriver.
+17.How to add javascript in selenium.
+18.WAP for reverse string without adding any.
+19.Parallel execution in selenium.
+20.Junit Annotations. 
+21.Difference Between find element & find elements.
+22.Syntax for initiating chromedriver.
+23.Take screenshot code.
+24.Alert method?How to handle it?
+25.Difference Between List & Set
+26.Static Method?
+27.Instance method.
+28.Method Overriding?
+29.Encapsulation.
+30.Abstract Class.
+
+ TCS
+1.How to handle dropdown in selenium?
+2.How will you find an Element using Locator?
+3.Difference Between Find element & find elements.
+4.How do you perfoem double click operation on an element.
+5.Difference Between Absolute xpath & relative xpath.
+6.How to switch to main frame to next frame & then coming back on same frame?
+7.How do you handle Windows?
+8.Stale element exception. How to handle it?
+9. Difference Between Vector & linked list.
+10.Exceptions till now you have found?
+11.Synchronization?
+12.If the dropdown list of countries doesn't have select class and we want to select India then how to do it?
+13.Difference Between String buffer & String builder.
+14.How to find broken links?
+15.How can we convert array into arraylist?
+
+COGNIZANT
+1.When do you do test automation?
+2.What is TestNG?
+3.Inner join? Syntax?
+4.Dir. to dir. more syntax?
+5.Exceptions you see in these years of experience?
+6.Difference Between Post & Put in API?
+7.How can you handle dynamic web element?
+8.Jira uses?
+9.What are the feedbacks you get in your sprint reterospective meeting?
+10.Explain agile methodologies & story point allocations.
+11.Methods to scroll down to the bottom of a webpage?
+12.Milestone theoram?
+13.Union & union all?
+14.What is testng & explain its advantages in automation. What are the annotations in TestNG?
+15.How to handle switch frames in selenium?
+16.How to handle windows popup & the command for it?
+17.How to refresh page in selenium & its commands?
+18.Annotations in Jenkins.
+19.POM?
+20.What is the use of maven?
+21.How do we use cucumber in selenium?
+22.What is API testing & explain it in detail.
+23.If an element is not visible on the screen then how to click on it?
+24.WAP for string count "I am using my computer & I like my computer",
+Output should be:-
+I=2, am=1, using=1, and=1, like=1, my=2, computer=2.
+25.Logging steps? How to write it?
+
+VIBRENT HEALTH
+1.Explain different response codes of API?
+2.How to drag & drop files on web page?
+3.How to retrieve an image fron an nth window?
+4.Name methods of action class?
+5.Difference Between POM & Page factory.
+6.How to select the value from the dropdown?
+7.Explain list & hashmap?
+8.Java & Mutiple inheritance?
+9.Inheritance skipped in java?
+10.WAP for string "Hello, how are you"
+Output should be:- 
+H=2, e=2, l=2, o=3, w=1, a=1, r=1, y=1, u=1.
+
+LnT
+1.Difference Between Smoke testing & Regression Testing.
+2.Explain your framework.
+3.Agile methodology.
+4.Syntax for .getattributevalue method.
+5.How to handle multiple windows?
+6.Difference Between driver.close & driver.quit?
+7.How to declare array?
+8.OOPS concept.
+9.WAP for class ANIMAL & the output should be
+"I am dog", "I can bark"
+10.Types of waits?
+11.Inheritance. WAP for it.
+12.How to handle windows popup?
+13.Abstract class?
+14.Difference Between Regression testing & Retesting.
+15.Where are Json files are added?
+16.Explain maven.
+17.Which xpath we can use if ID is not present?
+Xpath or CSS selector?
+18.Collection?
+19.If class toy contains return method in try block then which block will work,
+Try-Catch or Try-Finally block?
+20.Hooks?
+
+Capgemini-6/9/22
+1.Introduction
+2.Oops concept
+3.Difference between driver.quit & driver.close
+4.Maven Profile
+5.If there are 3 edit boxes editbox 1, editbox 2, editbox 3, and we have locators for only editboxes 1 & 3.
+  Locators are not present for editbox 2, then how we will create xpath for editbox 2?
+6.If the web page have label at the corner of the web page as the month date and it can pass it through only.
+  If its the last date of the month then how we cwn pass it by keeping it true or false.
+7.Difference between Git Pull & Git Fetch.
+8.Importance of tags in cucumber framework?
+9.Hooks in cucumber framework?
+10.Can we use multiple @before & @after hooks?
+11.Difference between final,finally,finalize?
+   Syntax for Finalize.
+12.What are the multiple click methods?
+13.How to calculate total number of links on the web page?
+14.What do youn mean by Headless browser?
+15.What if Static keyword is removed from the main method?
+16.What will happen if the run button is clicked?
+17.Ceremonies included in Agile & Scrum?
+18.Output for
+   System.out.println(10+20+"test");
+   System.out.println("Test"+10+20);
+
+
+
+
+
+
+
+ 

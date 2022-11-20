@@ -1,0 +1,286 @@
+1.Company-Infosys
+Round-1 st
+
+1.Introduce Yourself in breaf?
+2.Explain your framework?
+3.locators in selenium?
+4.which xpath you prefer?
+5.Why xpath you prefer?
+6.what command for browser invocation?
+7.Explain complete selenium lifecycle?
+8.What is incapsulation?
+9.What is polymorphysm?
+10.What in inside the page object?
+11.Structure of stepdefination?
+12.How you checkin code inside github?
+13.Which tool for defect tracking?
+13.difference in relative and absulute xpath?
+14.difference between assert and verify?
+15.what you use to stop webdriver?
+16.difference in close and quit command?
+17.tell me about from creation of project complete process
+18.Rate yourself for selenium?
+19.Rate yourself for java?
+20.Do you know api, testNG?
+21.Any question for me? 
+
+Company-Infosys
+Round-2nd
+1.Explain your project in Breaf?
+2.Tell me about agile methodology?
+3.Your team size?
+4.Who assign you Story?
+5.how you decide which test cases first to automate?
+6.Explain Sprint planning?
+7.Rate yourself(Repeat)?
+8. What is Sprint period?
+9.How many stories complete in one sprint?
+10.How you get confirmation you have done correct?
+11.What you can do when Something is wrong at end of sprint?
+12.How you perform from start to end of sprint?
+11.any question for me?
+
+2.Company-Infosys
+1.Introduce yourself?
+2.Rate yorself for java?
+3.Rate yourself for Selenium?
+4.Write a code to reverse number 12345?
+5.Write code to print Ashwini:Ahii? Alternate characters
+6.Write code for palindrome?
+7.Any question for us?
+
+3.Company-Capgemini
+1.Introduce yourself?
+2.Agile ceromonies?
+3.how you design pom.xml?
+4.types of plugins in pom.xml?
+5.Types of maven reposetories?
+6.Where you used overloading in your framework?
+7.Where do you used abstraction in your framework?
+8.Difference in abtract class and interface?
+9.Difference in final,finally,finalize?
+10.find the xpath for "https://demo.guru99.com/test/guru99home/"  on this webside for siblings of selenium?
+11.What is output for 
+int num=5;
+System.out.println(++num);
+System.out.println(num++);
+System.out.println(num);
+
+12.Write program for 
+String s="abcdABCDabcd";
+output:
+a=2, A=1, b=2, B=1, c=2 ,C=1, d=2, D=1
+13.How you can use assertion for tiltle of webpage?
+14.Write syntax how you perform mous over action?
+15.What is purpose of default constructor?
+16.Any questions for me?
+
+4.Company- Ellicium
+1.Introduce Yourself?
+2. Tell me about your project?
+3.What are the oops principles and how you have implemented in your project?
+4.Types of selenium waits?
+5.Syntax of implicitwait?
+6.difference in implicit wait and explicit wait?
+7.Write selenium code for email login page using username and password authontication?
+8.Find the xpath for "amazon.in" all-Fire Tv-fire tv Stick 4k?
+9. How many types of locators?
+10. Which locators used mostly?
+11.Difference between relative and absulute xpath?
+12.What is difference in xpath and css selector?
+13.When you use css selector?
+14.What is assert?
+15.Explain selenium Exceptions?
+16.When you get  ElementNotInteractableException?
+17.On Which basis you point the story?
+18.On which factors you decides time for story completion?
+19.When customer said delever product in 1 week at the place of 2 weeks?How you van complete your work on time?
+20.When the bug find in production envoirment by custemer not any other testing envoirment?Them what you can do?
+21.What is mean by leakage bug?
+
+4.Company- Ellicium (2nd round)
+1.Tell me about your baground?
+2.Which are the domains on which you are working?
+3.Explain about any comlex scenario on which you are working?
+4.You have done time estimation?
+5.How ca do time estimation?
+6.Defination of complexity?
+7.You have done API testing?
+8.You have worked on cloud?
+9.How the exact flow of your automation?
+10.What is your notice period?
+11.Where is your company located?
+12.Any situation you have worked without interacting with developer?
+
+5.Company- Vertafore
+1.Tell me about yourself?
+2.Which selenium webdriver version you use?
+3.how you can update version?
+4.Who can update?
+5.How you can update capta scenarios?
+6.How you can automate scenario for material out of stok or not? tell me steps?
+7.You have done API testing?
+8.how many test cases in your regration pack?
+9.How you can automate?
+10. Time required for regression?
+11.How many runners you can use in parrallel?
+12.How you check runner is busy or not?What tool used to do setting for that?
+13.What is the output for programme?
+
+public class Test1 
+{
+	public static void main(String[] args)
+    {
+        String s1 = "HELLO";
+        String s2 = "HELLO";
+        String s3 =  new String("HELLO");
+  
+         System.out.println(s1 == s2); 
+         System.out.println(s1 == s3); 
+        System.out.println(s1.equals(s2));
+        System.out.println(s1.equals(s3)); 
+}
+}
+
+14.What is main method?Explain in brief?
+15.Can you overload main method?Explain with example?
+16.Can you override the main method?
+17.Find the xpath for
+Type asdg on chrome? related searches-asdf python?
+Any Question for me?
+
+6.Company-REI - 1st round
+1.Introduce yourself?
+2.Explain your framework?
+3.Write a syntax for explicit wait and implicit wait?
+4.Write code for occurance of character?
+5.Do  you know Api testing?
+6.Write code for fetch data from exel sheet?
+7.Different methods of select class?
+8.Explain agile ceromanies?
+9.Which type of collection framework you have used?
+10.How you execute your regression suit?
+11.Which setting you can do for run your regression pack parallely?
+12.how to take screenshot?
+13.how to read property file?
+14.commands to read properties file?
+15.Any question for me?
+
+6.Company-REI - 2nd round
+1.Introduce yourself?
+2.Explain your framework?
+3.Explain opps concept?
+4.Difference in list and set?
+5.Which are the java interfaces?
+6.Explain linkedlist and arraylist?
+7.What is static and super keyword?
+8.Is overloading of static method is possible?
+9.Which are the exceptions in selenium?
+10.What is staleelementexception?When it occours?
+11.what is iterator?
+12.what is treeset?
+13.methods in list?
+14.Write a java programme to find occourance of repeated words? Reverse only repeated words?
+1.Pune
+2.Mumbai
+3.Kolkata
+4.Benglore
+5.Pune
+6.Pune
+7.Benblore
+
+15.Find xpath for amazon.in sign in button?
+16.Write code for capturing screenshot?
+17.any question for me?
+
+7.Company-GalaxE  -1st round
+
+1.Introduce yourself?
+2.What is advantage of cucumber BDD?
+3.Which language you use in cucumber?
+4.What is when in feature file?
+5.Explain your framework?
+6.Which annotations are in cucumber framework?
+7.hooks in cucumber?
+9.How you can handle object in selenium?
+10.What is dryrun?
+11.What is the stepdefination?
+12.What is interface?
+13.Explain overloading and overriding?
+14.What is constructor?
+15.How you can handle certificate while opening window?
+16.Which parameter you can pass in desirecapabality?
+17.How to take screenshot in selenium?
+18.Whow you design manual test cases?
+19.are you involved in test planning?
+20.What is RTM?
+21.suppose you have automated 100 test cases and upto 9 test cases it goes ok and 10 nth test case got failed this situation how you can handle?
+22.Who you can handle exception?
+23.Who you can automate capta in selenium?
+24.suppose After release of software there is issue? And customer mail to higher authority and you have 6 hours time before meeting with custemer and higher authorities?Then how you can convince them ?tell me exact sentances?
+25.And suppose you are customer and how you can react on above action?
+26.Any question for me?
+
+7.Company-GalaxE  -2nd round
+
+1.Tell me about the technologies you use and your project?
+2.Tell me about your framework?
+3.Write a scenario for login  to page with different username and password and welcome page is displayed
+4.Write skeleton for scenario outline?
+5.Write a code for search product is available in dropdownlist if not available then take screenshot?
+6.In your regression pack out of 100 scenarios 10 scenarios got fail?how you can rerun only failed scenarios only?
+7.Do you use parallel execution?
+8.How you can handle dropdown?
+9.Exceptions in selenium?
+10.How you can handle exception?
+13.Types of synchronization?
+14.What is fluent wait?
+15.Tell me about how to design framework from scrach?
+16.Do you have worked on paging?
+17.Suppose all scenarios having same steps and how to avoid to written same steps multiple time?
+
+7.Company-Vodafone
+
+1.Introduce yourself?
+2.What are your roles and responsibilities in your current organisation?
+3.How you can run test cases in parallel?
+4.How many test cases you write in one sprint?
+5.How you can send the text using selenium without using sendkeys?
+6.method to get cssattribute in selenium?
+7.write a code for remove blank spaces from code?
+8.Are you using jira?
+9.How the work is going in complete sprint?
+10.Rate yourself for selenium?
+11.Which tools you can use?
+12.Any question for me?
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

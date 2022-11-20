@@ -1,0 +1,34 @@
+Comapny : Binary Semantics Ltd.
+
+1.Tell me roles and responsibilities.
+2.How many years of experience in automation?
+3.knowledge of  TestN-g?
+4. Explain the configuration used in your project
+5. Which Eclipse Version you are using
+6. Have u created your project framework?
+7. How u will know string is empty or not?
+8. Method for removing extra spaces in string.
+9. How to find the index no of letter 'p' in string "Deepali" ?
+10. Syntax for drop-down handling
+11. Will spaces effect while handling drop-down?
+12. Program to reverse string
+13. Any questions for me?
+
+
+
+Company:GalaxE
+1.Tell Me your Introduction
+2.Tell about your framework
+3.Can we create object of interface
+4. In your project where you have used oops concepts?
+5. Syntax for handling drop-down?
+6. WAP for palindrome number
+7.Tell folder structure of your project
+8. Difference between find element and find elements?
+9. Difference between regression and retesting?
+10. Have you used TestnG ... 
+..requestion that  which platform you use for execution as selenium doesn't supports every thing?
+11.Diffrence between regression and retesting
+12.Any questions for me?
+
+
