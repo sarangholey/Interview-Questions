@@ -71,6 +71,13 @@
 26. suppose 5testcases are given ,and perticuler 3 no test case exicute In parallel
 27. what is Background keyword 
 
-  
+Barclays Face to face round Interview questions:
+________________________________________________
+1)Question about oops concept in java.
+2)print duplicate no in array.
+3)verification methods used in selenium webdriver.
+4)how to verify webpage having diffrent elements real time question 
+5)why and how we use assert method
+6)Question regarding string in java.
 
                                   
