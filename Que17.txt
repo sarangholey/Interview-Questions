@@ -80,4 +80,17 @@ ________________________________________________
 5)why and how we use assert method
 6)Question regarding string in java.
 
-                                  
+------------------------------------------------------------------------
+
+1)Tell me about Yourself?
+2)What is you Role in Your Team ?
+3)Login Page scenario How do you verify?
+4)How to Create Ticket in Jira?
+5)Where do you implement OPPs cocept in your project?
+6)Why you choose BDD?
+7)Ask abou Scenerio outline with example
+8)Basic SQL queries.
+9)Count Letters in Word java Programme.
+10)Array vs ArrayList Diff.
+11)How many test cases are you prepared?
+12)What are thigs you check  in API testing?                    
