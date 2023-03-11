@@ -93,4 +93,17 @@ ________________________________________________
 9)Count Letters in Word java Programme.
 10)Array vs ArrayList Diff.
 11)How many test cases are you prepared?
-12)What are thigs you check  in API testing?                    
+12)What are thigs you check  in API testing? 
+
+------------------------------------------------------------------------
+
+1. Introduce yourself
+2. Your roles and responsibilities and rate yourself in manual out 5
+3. What is the difference between a test case and a test scenario 
+4. write test case and test scenario for the given website.
+5. Basic abt SQL
+6. Write a query for a given table.
+7. What is the difference between priority and severity
+8. How do you raise a jira ticket.
+
+------------------------------------------------------------------------
