@@ -107,3 +107,72 @@ ________________________________________________
 8. How do you raise a jira ticket.
 
 ------------------------------------------------------------------------
+
+Capgemini
+Tell me about yourself
+Explain your framework
+Write the program of array
+Explain your project and open the URL of the project.
+arr[]={1,3,5}
+arr1[]={2,4}
+output= {1,2,3,4,5}
+find all the iframe from the webpage
+difference bet hook and tag
+write a program of string = Iam using automation remove blank space on it
+write code of hashmap
+
+TCS---- 31Jan 2023
+
+Describe brief about your self.
+Write the code of screenshot.
+Explain implicit and explicit wait.
+If environment is not available how do you do automation.
+Write pattern program of reserve triangle.
+How to fetch data from Excel sheet.
+Tell me the test case of credit card.
+What is page object model.have u use it in your project.
+What challenge u face in your automation Testing.
+
+24 Jan 2022- Capgemini Interview questions 
+
+Tell me about your self brief
+Explain your framework 
+How do you handle exception
+Background keywords
+Getwindowhandle vs getWindodhands
+Dryrun
+Static method
+Methodoverloding vs methodoverriding 
+Set vs list
+Waits in selenium
+Write code of explicit wait.
+Which keywords use for scenario outline 
+Write code of iframe
+Which method is use for coming back to main page.
+What is properties file.
+If we want to run single features file @ smoke like this how you do this.
+Absolute vs Relative xpath
+What is hook in cucumber.
+How do you handle nested iframe.
+How do you handle drop-down 
+Difference between verification and assertion 
+
+Vodafone
+
+1. Steps to click on an element with id- “123” located in a Iframe with id – “ABC”
+And then click on an element with id-“XYZ” which is outside the frame.
+2. What will be the output of below command if element is not present in DOM.
+element.is Displayed()?
+3. Which one is a class in Selenium?
+ 
+a. WebDriverWait
+b. WebElement
+c. WebDriver
+d. getPageSource
+4. Which keyword in java will make a class non-inheritable?
+5. How to prevent object creation of any class? 
+6. What is the main use of static keyword in java?
+7. What are the git commands involved in pushing the code from local git repo to Github?
+8. Git command to remove your changes temporarily and restore them later if needed?
+9. Which Maven Plugin helps is triggering unit tests from command prompt?
+10. Which TestNG annotation helps in executing same test with multiple sets of data?
