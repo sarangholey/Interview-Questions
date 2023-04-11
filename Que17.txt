@@ -176,3 +176,17 @@ d. getPageSource
 8. Git command to remove your changes temporarily and restore them later if needed?
 9. Which Maven Plugin helps is triggering unit tests from command prompt?
 10. Which TestNG annotation helps in executing same test with multiple sets of data?
+
+Hexaware
+1. Tell me about ur self
+2. What is cucumber ,explain its features
+3. Why we need api testing
+4. Diff between Junit & testNg?Why use Junit over testNg.
+5. What is interface? Where u have used it ?
+6. Why string is immutable and string concepts ?
+7. Limitation of selenium?
+8. How to choose test cases for automation ?
+9. What exception u faced and how dealt with it?
+10. Upcasting & Downcasting ?
+11. Sprint planning meeting 
+12. What is ur role in CI with Jenkins ?
