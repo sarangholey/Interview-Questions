@@ -1,0 +1,362 @@
+      23-May-2023
+(Mumbai) On Call
+
+1. What are the Types of Automation Testing?
+2. What tool used for Automation?
+3. What is Xpath
+4. what is difference between / and // ?
+5. How to use Xpath ?
+
+27-May-2023
+(Techment Technology, Indore) 
+
+1. Tell me about your Self?
+2. How To Execute Two FF Parallaly?
+3. What is data provider annotation?
+4. Use of rule annotation?
+5 explain SDLC 
+6 difference between Type and TypeandWait Command?
+7 Write a code snippet to perform right-click an element in WebDriver
+8 Benefit of Automation Testing?
+9 How can you redirect browsing from a browser through some proxy?
+10 write program to Remove Junk Character from String
+11 explain OOP concept one by one
+12 are u aware about Bootstrap and latest version?
+13 what is HTML UnitDriver?
+14 what is maven repository
+15 mention build life cycle of Maven?
+16 Explain your framework in detail?
+17 How to set browser window size in Selenium?
+18 How you deal with stale element exception in Selenium
+19 can u learn TestNG 
+
+Comapny Name- L&T 1st Round
+1. Why you use JUnit?
+2. What is Interface?
+3. what is the Use of Interface?
+4. Is String Immutable or not? If yes then Explain It with Example
+5. What is the diffrence b/w Interface and Abstract 
+6. What is JDBC?
+7. What is Collection ?
+8. Do you have Knowledge of LinkList? 
+9. what is Data Structure
+10. Do you have knowledge of Programming in java ?
+
+2nd Round-
+
+1. WAP of Duplicate String
+2. What is Finally?
+3. why we use Finally Exact Meaning?
+4. Explain me OOP concepts one by one with example
+5. WAP factorial of 6
+6. WAP Armstrong number
+7. write a only logic of Pallindrome number 
+8. Reverse String With use of direct method 
+9. How to print IP address
+   Practical questions perform on L&T website like find Xpath with the use of ancestor, parent, sibling, questions related to WebDriver Wait, POM,
+ 
+Written Test: Avizva
+
+1 WAP factorial of 0, 3
+2 WebElement element = driver.findElement(By.id("xyz"));
+  this statement show Stale Element Exception apply Proper Wait and complete statement
+3. for finding List in POM with Selenium What is use : Options are given - 1.@findBy 2.@findList 3. @List 4. none
+4. complete the code with proper logic 
+5. what method is used to take screen shot
+6. without use of sendKeys how we enter text in textbox
+7. pattern printing question 
+8. Scenario Based Question 
+---------------------------------------------------------------------------------------------------------------------
+
+Date: 1-july- 2023 (CAPGIMINI) 1ST Round
+
+1. Write a program For reverse :: String s= "My Name Is Kirti";
+
+	O/P: yM emaN sI itriK;
+
+2. Write Program Second Largest Number in Array?
+3. What are the Test Management Tools?
+4. Are u use Jenkins?
+5. What is ur Framework?
+6. Explain what are the JUnits annotation linked with Selenium?
+7. how you can switch back from a frame?
+8.  List out different types of locators? Show me Practically Perform In Amazon Website
+9. what is IntelliJ?
+10. How do you identify an object using selenium?
+
+Date- 4July2023 (BPN)
+
+1. self intro
+2. write a program duplicate value using HashMap?
+3. How to select dropDrown
+4. methods of dropDown
+5. waits in selenium
+6. take screen shot syntax
+7. why use paranthesis in take screen shot interface
+8. what is driver
+9. what is new ChromeDriver()
+10. what is Abstract class and Interface
+11. what is Final, finally and finalize
+12. what is method overloading
+13. what is Frame ? why it is use?
+
+-----------------------------------------------------------------------------------------------------
+
+Date--08July2023 Capgimini Pune...
+
+1. Tell me the OOps Concept
+2. Inheritance:Why Multiple Inh Not support? Can we Achive M.I?
+3. Abstraction: Diff abstract and Interface?
+4. Polimorphism: 
+5. how to handle Exception in java?What is used?Can We use multiple Try catch block?
+6. What are the diff Frameworks used in selenium?
+7. DDf, Kdf,Hybrid F?
+8. Difference between setting.xml and pom.xml?
+9. how to handle Drop Down?
+10. Why Use Action class Syntax and there methods?
+11. how to use DragAndDrop
+12. diff between get and Navigate?
+13. 1
+    22 	
+    333 
+    4444
+    55555
+14. What is String and String Buffer?
+15. Input= Automation123Testing
+    output= AutomationTesting
+16. What is POM....
+17. what is locators ? types 
+18. what is relative and absolute xPath?
+19. How to Read And Write data in Excel?Write a code
+20  How to Scroll Down Page ?
+21. How to fetch data from data Table?
+22. diff  between Scenario and Scenario OutLine?
+23. What is Hooks
+24. what is functionality of @before hook?
+
+-----------------------------------------------------------------------------------------------------
+
+Company=Capgemini  (1 st level)      time:1.15hrs    level: hard to moderate    focus on JAVA
+1)How to connect database to selenium
+2)What is string
+3}String arr[]={"abc123","bef456","ijk789","mno135","uvw246"};
+String s1="Dear candidate please join the call";
+//replace all the odd place characters from s1 with the vovels comming from arr sequencely
+4)methodoverloading methodoverriding
+5)why set<string> is retur type of set
+6)about git checkout and checkin
+-----------------------------------------------------------------------------------------------------
+Company name: Cognizant (level 1)
+1)difference between Action and Actions in selenium
+2)where u use overloading and overriding in your project
+3)reverse string
+4)xpath of footer links on google page
+5)input =I LOVE AUTOMATION   output= iLoVeAuToMaTiOn
+6)Arrange in order of execution - @BeforeClass
+                                                       @Before
+                                                       @Test(Priority=1)
+                                                       @Test(Priority =2)
+                                                       @Test
+7)difference between Junit and TestNG
+8)How you do parallel execution
+-----------------------------------------------------------------------------------------------------
+
+There is a  Element Locator that has 4 methods
+1. locate nonTextTypeElements: This needs to return elements whose type is not text and are inside the form
+2. locateContactElements: The needs to return input
+ elements whose name starts with contact and are inside the form
+2 locateSubmitlement This needs to return button  elements having type submit Assume there can be only one submit type button element inside
+the form
+4 locate IdMissingElements: This needs to return input elements whose id attribute is missing and are inside the form
+These methods have 2 parameters, one web driver and one web page URL.
+-----------------------------------------------------------------------------------------------------
+1)Introduce Yourself ?
+2)Will you perform the Cross Browser Testing ? How ?
+3)Explain Your Project 
+4)What is STLC ?
+5)JavascriptExecutor concept ? Where you Used ? Ask Code for entering Text in Field?
+6)How will you decide there is need for the Automation Testing For the project.
+7)Ask about switch to() command related to the window
+8)How Scenario outline feature works ?
+9)How to achieve the data base Testing in Cucumber
+10)Ask about navigation command of Selenium
+11)How will you integrate Cucumber with Selenium
+12)What is Webdriver ? Where you implement the interface concept in your framework?
+-----------------------------------------------------------------------------------------------------
+1)Introduce Yourself ?
+2)Tell me about Your Role in your recent project?
+3)Have you use selenium wait ?How ? Why?
+4)What is Auto It?
+5)Selenium Exceptions?
+6)Ask me about how you deal with the Developer if not accepting the Bug?
+7)Imp Files to run cucumber?
+8)What is POM ? How you implement it in your framework?
+9) What is Object Repository ?
+10)Concept of inheritance in framework Explain how you implement it?
+11)Question About Frame handling?
+12)How you decide the need of Automation in your framework?
+13)Concept of Manual Testing Types?
+14)How to performed functional Testing In Automation ?
+15)What  about the properties file in Selenium ?
+-----------------------------------------------------------------------------------------------------
+******************************************2nd round of NICE************************************
+
+Tell me in brief about yourself ?
+What are the benefits of cucumber?
+What OOP concepts do developers apply in the framework for automation testing with Selenium, Java, and Cucumber?
+How would the sprint plan be in Agile for testing along with developers?
+How will you manage the work in a sprint when there is a limited time of 10 days for testing?
+How can you handle the situation if you have committed to testing in 10 days but the code deployment is still pending?
+How can you ask developers to deploy the code within a limited time frame for testing?
+How do you prioritize manual testing and determine which test cases should be automated?
+What would be your approach for prioritizing manual tests and determining which test cases need to be automated?
+What module are there in retail banking web project?
+How can a retail banking website enhance customer experience?
+What security measures should be implemented in a retail banking web project?
+Can you explain the loan application process in a retail banking web application?
+How can a retail banking web project handle customer onboarding?
+How can a retail banking web application facilitate online payments and transfers?
+How can a retail banking web project ensure the privacy of customer information?
+
+*******************************interview questions from Apexon ************************************
+
+Tell me in brief about yourself ?
+Explain the architecture of Cypress in brief.
+Can you provide some commands and methods used in Cypress?
+How can we execute a simple scenario in Cypress?
+How can we execute tests in Cypress if everything is already set up?
+What does Babel do in Cypress?
+How can we handle re-posting in Cypress?
+How can we read data from an Excel file in Cypress?
+How can we handle multiple windows in Selenium with Java?
+Write code to retrieve data from a web table using Selenium with Java.
+
+***************************************QualityKiosk****************************************************
+
+Tell me in brief about yourself ?
+What to discuss in a sprint review meeting in Agile?
+How to log a defect and get it resolved in Agile sprint using Jira?
+What is a scenario outline?
+What is a HashMap in Java?
+Can null values be stored as keys in a HashMap?
+What are the different methods in a HashMap?
+What is the use of TestNG?
+What are annotations in TestNG?
+What is the difference between hard assert and soft assert in testing?
+
+****************************************Coforge****************************************************************
+
+Tell me in brief about yourself ?
+What is the difference between a list and a set in Java?
+Write the logic in Java to find a missing integer in an array.
+Why are strings immutable in Java?
+How can we modify a string if it is immutable?
+Can we create an object of an abstract class in Java?
+Do abstract classes in Java have constructors?
+Which function in the Actions class requires the build() method in Selenium Java?
+How to perform a right-click action in Selenium Java?
+How to convert an API response to a JSONObject?
+Which library does the ObjectMapper class come from?
+
+***********************************************NEC********************************************************
+
+What is equivalent partitioning in manual testing?
+Give an example and explain how equivalent partitioning is different from boundary analysis.
+What are the components in root cause analysis (RCA)?
+How are hooks used in BDD with Cucumber?
+What are some scenarios apart from the happy path that can be tested for a "Good morning" greeting feature in WhatsApp?
+What are the differences between hooks and annotations in Cucumber?
+Can Cucumber have annotations?
+What are the differences between the Background section and Before hook in Cucumber?
+When should I use the Before hook, and when should I use the Background section?
+************************************Interview questions from NICE ************************************
+1st Round
+
+Tell me in brief about yourself ?
+What is functional testing?
+What is regression testing?
+What is the difference between smoke and sanity testing?
+What is the bug life cycle in testing?
+What are positive and negative test cases for a webpage with username and password fields?
+Explain the Page Object Model (POM) in testing.
+What is Page Factory and how do we initialize it?
+How do we initialize elements in Page Object Model (POM) and are there any annotations for it?
+What is the Action class in Selenium?
+What are the different types of waits in Selenium?
+What is API testing?
+What are the different status codes for API responses?
+What are the different OOPs concepts in Java?
+What are the different interfaces used in Selenium with Java?
+Reverse the string "Shreya" without using any built-in methods in Java.
+
+
+******************************************2nd round of NICE************************************
+
+Tell me in brief about yourself ?
+What are the benefits of cucumber?
+What OOP concepts do developers apply in the framework for automation testing with Selenium, Java, and Cucumber?
+How would the sprint plan be in Agile for testing along with developers?
+How will you manage the work in a sprint when there is a limited time of 10 days for testing?
+How can you handle the situation if you have committed to testing in 10 days but the code deployment is still pending?
+How can you ask developers to deploy the code within a limited time frame for testing?
+How do you prioritize manual testing and determine which test cases should be automated?
+What would be your approach for prioritizing manual tests and determining which test cases need to be automated?
+What module are there in retail banking web project?
+How can a retail banking website enhance customer experience?
+What security measures should be implemented in a retail banking web project?
+Can you explain the loan application process in a retail banking web application?
+How can a retail banking web project handle customer onboarding?
+How can a retail banking web application facilitate online payments and transfers?
+How can a retail banking web project ensure the privacy of customer information?
+-----------------------------------------------------------------------------------------------------
+1)How you check price is correctry updated or not?
+2) how upload file if the file size is big
+3) how to check that image or video or proper or no
+4) duplicate charector from the string
+5) 0+' 'what is out put
+6) drop down
+7) how to check the payment getway
+8)API
+-----------------------------------------------------------------------------------------------------
+Date - 19 June 2023
+
+Civica 
+1. What are the Types of Automation Testing? 
+2. What tool used for Automation? 
+3. What is Xpath 
+4. what is difference between / and // ? 
+5. How to use Xpath ?
+6.Why you use JUnit? 
+7. What is Interface? 
+8. what is the Use of Interface?
+-----------------------------------------------------------------------------------------------------
+1. Abot yourself .
+2.Roles and resp.
+Which company are u working? Is it service based or product based?
+What services they provides?
+3. find xpath for the table 
+4. about page about model ? how you perform? how you connect then? 
+5.which version controlling tool are you using?
+6.what is conflicts ?
+ 7.difference bt smoke and sanity?
+ 8.what is build? 
+9. How the task is assigned to you?
+10.what is page factory? 
+11.about agile ? sprint backlog? product backlog?
+12.what is zero sprint?
+-----------------------------------------------------------------------------------------------------
+1) A extends B
+A and B have same method or variable.
+if we create and call method from B which will be executed, write code to justify answer.
+
+2) waits in Selenium types and advantages and disadvantages.
+
+3) why BDD cucumber over other frameworks
+
+4)Define Java String variuos ways, how to it makes Java secure.
+
+5) explain your framework and roles and responsibility.
+
+
+
+
