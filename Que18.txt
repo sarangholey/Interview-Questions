@@ -357,6 +357,15 @@ if we create and call method from B which will be executed, write code to justif
 
 5) explain your framework and roles and responsibility.
 
+-----------------------------------------------------------------------------------------------------
+1.Inner classes in java 
+2.why string is immutable
+3.diff betwwen string buffter and string bulider
+4.How string memory allocation is done
+4.where string obj is stored
+5. what is heap memory
+-----------------------------------------------------------------------------------------------------
+
 
 
 
