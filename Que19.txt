@@ -1,0 +1,397 @@
+
+--Deloitee interview Questions-- for 2+ years of experience 
+
+Tell me about yourself.
+Are you working on manual+ automation or only automation?
+
+What tools you have used in your project so far?
+
+Explain bug life cycle. What priorities do you give while raising a bug?
+
+If in a sprint two user stories have some conflict, what will you do?
+
+Have you worked on BDD framework? Why BDD is preferred over other typical frameworks.
+
+Write a feature file for login scenario.?
+
+Are you working on creation of framework from scratch or you just modify the existing framework?
+
+What is a test runner file?
+
+What is POM.xml file? Why it is used?
+
+What is a testNG.xml file? What is the benefit of using a testNG framework?
+
+What is a hybrid framework? What are the components of a framework?
+Deloitee interview Questions
+What are the benefits of creating a framework? Why POM approach is preferred?
+
+Have you worked on data driven framework? WAP to fetch data from a excel file, just tell me code.
+
+From what type of files can we obtain test data?
+
+How to find broken links in selenium?
+
+What are test listeners in selenium? What are the different types of test listeners?
+
+What is frame is selenium? Lets say I have 3 frames, then how I can go to the 3rd frame from 1st frame? And how to come back to 1st frame?
+
+What is maven in selenium? How maven is useful?
+
+What is a build life cycle in Maven?
+
+What are the qualities of a good build too?
+
+ On what basis you will select a build tool?
+
+What is a wrapper class in java?
+
+What is the difference between array and collections in java?
+
+What is the difference between Final, finally, finalize?
+
+What are the different methods used in web services?
+
+Have you worked on GIT? What are the commands in GIT?
+
+What is the overall check in checkout procedure in GIT?
+
+What are the exceptions that you have encountered in selenium?
+
+What are different types of testing?
+
+Tell me the annotations in testNG by order of execution?
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Defetc Traking Tools
+JIRA
+Redmine
+Trello
+Bugzilla
+OpenProject
+GitLab
+Trac
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+What are the pop ups in selenium? How to handle windows windows based pop ups?
+
+Can we handle user session in selenium?
+
+How to capture screenshot in selenium? Tell me the code.
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Verification vs Validation
+Quality Assurance vs Quality control
+Bug vs defect
+What is Gap analysis in Mobile testing
+What are the roles and responsibilities you had got and you perform them in your 1st to last project
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+1) Explain your current automation framework.
+2) current roles and responsibilities.
+3) TestNg sequence.
+4) why no main method is required in tetsng execution.
+5) how to connect to database.
+6) simple SQL queries on group by and conditions.
+7) SQL query to find second highest salary without using subquery.
+8) SQL query to sort the column in ascending.
+9) SQL query to find duplicate using self join.
+10) what is difference between http and https.
+11) java program on find duplicate character.
+12) java program on bubble sort.
+13) excel utilty to read excel using hashmap of hashmap.
+14) what is dependency injection in cucumber and testng Both and how we can achieve.
+15)java program to remove white space and replace it with comma.
+16) java program for taking input in arraylist and returning in array.
+17) what is thrust testing.
+18) write creative testcase for lift.
+19) write cucumber feature file using datatable.
+20) what are latest enhancement in selenium 4
+21) how to pass parameters in Jenkins.
+22) what is java jenrics and where you have used in our current automation framework.
+23) wap to take pass a get request using rest assured and from response verify if data present in database using SQL.
+24) difference between hashmap and linkedhashmap
+25) different error code.
+26) what are global variable in postman
+27) environment variable in postman.
+28) differencd between put and patch.
+29) what is 409 response code.
+30) how to pass json file to payload
+31) pass payload using hashmap.
+32) how to pass cookies in rest assured.
+33) what is outh and why company use nowadays
+34) what is agile. Explain it different components. What is burndownchart 
+What is velocity in agile.
+35) how to resolve confilct in Git.
+36) what is pull request.
+37) how to reverse ur code in git
+38) Jenkins Cron job to set at every hour how.
+39) apart from Jenkins what ci/cd tool you can use.
+40) what is effective pom in maven.
+41) how many different build phase avaialt in maven.
+42) how to pass testng in maven file.
+43) how to create profile in maven and execute same .
+44) how the optimze ur current framework.
+45) what is expectedconditions in explicit wait is it a class or interface.
+46) how to take ss of failed tc.
+47) how to rerun failed tc for 3 times.
+48) what is difference between drop and truncat in SQL
+49) what is alert in selenium.
+50) have you use JavaScript executor in ur framework is yes where.
+51) which framework is easy to handle data driven, keyword driven or hybrid.
+52) different design pattern we can use with selenium.
+53) can we integrate Sprint boot with selenium.
+54) what is jira.how ur project maintains testcase and defect
+55) what are deliverables you deliver after project is done.
+56) how you see automation growth in next fiver years.
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Cognizant interview Questions 
+#First technical round:
+*explain about yourself
+*frame work. 
+*what will be your approach to automate any scenario
+*how will you decide which test case to automate first. 
+1) What is automation testing. Why we do that? 
+2)rate yourself in java out of 5
+3)what is exception handling. How you handle exceptions. 
+4) difference between throw and throws keyword
+4) tell about selenium exceptions
+5) how will you handle NoSuchElement exception
+6) can you declare constructor as final
+7) can you declare constructor as private
+8) what is Singleton class in java.what requires to make class as singleton. 
+9) what is synchronization
+10) how will you achieve synchronization in selenium webdriver
+11) what is difference between yeild() and wait() methods
+12) what is thread
+13) what is Multithreading. Why we do that. 
+14) what is difference between super and this keyword
+15) can we declare super and this at a same time in constructor::We can't. 
+*either super can be there or this both can be in same constructor at a same time. Because super needs to be first Statment in constructor. Same with this. 
+16) how will you find that table has duplicate value using Hashmap. Explain me with Hashmap methods
+17) how will you identify objects on webpage. 
+18) if two objects have same id and all attributes value are same, how will you locate that second element. 
+19) if there is table and has column name and he wants to identify element prior to that name how will you that? 
+20) how you do version controlling:using git
+Explain flow
+21) what is difference between push and pull
+22) what you use for CI CD purpose:Jenkins 
+23) how will you schedule job in Jenkins
+24) do you have any idea about rest api:I explained him about rest assured. 
+***************************************†**************second technical interview****************
+1) explain about yourself
+2) your roles and responsibilities
+3) on which framework you are currently working on:I told him Cucumber
+4) explain your cucumber framework
+5) how many test cases you automate per day: told him 5 to  6
+6) if he wants to automate me 10 test case per day. What will be my approach . And how will I increase my feasibility to automate 10 test case per day. 
+8) he asked me other tools and technology I know other than selenium java and cucumber
+9) short term goals and long term goals
+
+1. What is synchronization
+2. What is thread, what is Multithreading. Why we do that.
+3. What is difference between super and this keyword
+4. How will you find that table has duplicate value using Hashmap. Explain with Hashmap methods
+5. What is exception handling. How you handle exceptions. 
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Questions For Agile & Scrum 
+1. What is agile?
+2. Difference betwwen burnup and Burndown charts?
+3. Define roles in scrum?
+4. What is product backlog and sprint backlog?
+5. Explain velocity in Agile?
+6. Expalin difference between traditional waterfall model and Agile testing?
+7. Explain pair programming benifits?
+8. What is re-factoring?
+9. How do you deal with requirnment change frequently?
+10. What is test stub?
+11. What are qualities a Agile tester should have?
+12. Difference between Epic, userstories and Task?
+13. What is task board in agile?
+14. What is test driven developement?
+15. What is scrum ban?
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+1. What is Cucumber? What are the advantages of Cucumber?
+2. What are the main components of the Cucumber?
+3. What do you mean by BDD?
+4. How does Cucumber comply with BDD?
+5. What dependencies do we need to add to work with cucumber?
+6. What is the name of the plugin that is used to integrate Eclipse with Cucumber?
+7. What are the programing languages supported by Cucumber?
+8. Name any two build management tools that can be integrated with Cucumber?
+9. Are there any readymade Selenium-Cucumber frameworks available?
+10. How to Setup Maven with Cucumber in Selenium?
+11. Which plug-in is used to run all codes in Cucumber?
+12. How many spoken languages cucumber support
+13. How to integrate Cucumber with Selenium?
+14. What are the Advantages and disadvantages of Gherkin?
+15. What are the different keywords that we can use with Gherkin?
+16. What is a feature file?
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+1. What is Gherkin?
+2. What are the different keywords that we can use with Gherkin?
+3. What is a feature file?
+4. What does a feature file contain?
+5. What are the keywords used in the Feature file?
+6. What is Scenario?
+7. What is the starting point of execution for feature files?
+8.What is the right way to execute a specific scenario from the feature file?
+9. What is Class Path Separator?
+10. What are Cucumber plugins(in runner file)?
+11. Explain the Given keyword in Cucumber?
+12. Explain about When keyword in Cucumber?
+13. Explain about the keyword in Cucumber?
+14. Explain about And/But keyword in Cucumber?
+15. What is the difference between AND & BUT in the feature file?
+16. What is the Scenario outline? & Its use
+17. What is the purpose of Examples keyword in Cucumber?
+18. What are differnt Cucumber Options which we use in TestRunner File & their uses
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+1. What is Cucumber? What are the advantages of Cucumber?
+- Cucumber: Cucumber is a testing approach which supports Behavior Driven Development.
+It offers a way to write test cases that anybody can understand.
+Advantages of Cucumber
+1. It is helpful to involve business stakeholders code who can't easily read and 
+understand the requirements
+2. Cucumber Testing focuses on end-user experience
+3. You can write your specifications in more than 40 languages.
+4. Style of writing tests allow for easier reuse of code in the tests
+5. You can use tags to organize and group your scenarios.
+6. Quick and easy set up and execution
+7. You can easily integrate with a host of high-quality automation libraries to drive 
+almost any kind of application.
+8. Efficient tool for testing
+	
+2. What are the main components of the Cucumber?
+- The main components of Cucumber are:
+a) Feature File
+b) Step definition file
+c) TestRunner Class
+
+3. What do you mean by BDD?
+- BDD: Behavior Driven Development. 
+It is an extension to TDD.
+BDD is the framework that defines the behavior of the application means 
+use case or test case. It basically focuses on what to test, not how to test.
+
+4. How does Cucumber comply with BDD?
+- BDD is a Behaviour Driven Development approach of software development 
+process where Cucumber works in BDD way of approach. The tests in BDD are 
+written in a human-readable format and understandable which are easier to implement. 
+The BDD tests are non-programming and easier to write. Behavior Driven Development 
+process is highly efficient and useful in resolving complex solutions and 
+requirements in the project to handle smoothly.
+
+5. What dependencies do we need to add to work with cucumber?
+- We need to add following dependencies
+Junit
+Cucumber-java
+Cucumber-junit
+dependency Injection - cucumber-picocontainer
+Selenium-java
+For Extent Reports - extentreports-cucumber4-adapter - version - 1.0.7
+For Extent Reports - extentreports - version - 4.0.9
+For Extent Reports - freemarker - version - 2.3.28
+For Extent Reports - Mongo-java-driver - version - 3.10.2
+
+6. What is the name of the plugin that is used to integrate Eclipse with Cucumber?
+- cucumber-eclipse-plugin
+
+7. What are the programing languages supported by Cucumber?
+- Cucumber supports
+Ruby, Java, Scala, Groovy etc.
+
+8. Name any two build management tools that can be integrated with Cucumber?
+- a) Maven
+b) Gradle
+
+9. Are there any readymade Selenium-Cucumber frameworks available?
+- EasyB, is a framework written in Groovy.
+
+10. How to Setup Maven with Cucumber in Selenium?
+We have to follow following steps:
+- a) First, create a Maven Project.
+b) Second, add all following dependencies in POM.xml file of your project:
+
+11. Which plug-in is used to run all codes in Cucumber?
+- Maven surefire plug-in
+
+12. How many spoken languages cucumber support
+- Cucumber supports over 40 spoken language and the number is growing
+
+13. How to integrate Cucumber with Selenium?
+- We can integrate Cucumber with Selenium by adding all necessary jar.
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+1. Data Types and Type Casting in Java
+2. String Concatenation and manipulation in Java
+3. Encapsulation In Java
+4. Polymorphism in java
+5. Abstraction in Java
+6. Access modifiers in java 
+7. Exception Handling in Java
+8. Usages of this, Super and Final keywords
+9. JDK JRE JVM JIT - Java Compiler
+10. Operators In Java
+11. Loops in java - While, do while, for, for each
+12. Static Keyword In Java
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Process and Framework Questions
+1. What is sign off process how it is followed in your company?
+2. What is User acceptance testing ? and what is the UAT criteria?
+3. What is a Smoke test and what type of test cases are included in your smoke pack?
+4. What type of test cases included in your regression pack?
+5. How frequently do you execute the regression pack, its either a daily basis or weekly basis?
+6. On what basis you decides priority for test cases?
+7. What is drawback of your framework?
+8. What is recovery scenario and how will achieve ?
+9. What is your screen shots strategy? Test case level, step level?
+10. What is your automation sprint cycle?
+11. Do you have daily scrum meetings?
+12. How do you notify about new enhancement in the Framework and generic methods with in the team?
+13. Do you have regular demos?
+14. Do you have regular retrospectives?
+15. How much are you delivering per sprint?
+16. How much is your current back log?
+17. What percentage of test cases are currently automated?
+18. How frequently you update your back log and how do you pick which test cases holds priority in that sprint?
+19. Do you have CI integration for test Automation pack?
+20. What percent of your automation is back end and in compliance with Agile testing pyramid?
+Code review Questions
+1. What is the current code review strategy?
+2. What is the branching and code merge strategy?
+3. Do you have review check list for the reviewers?
+4. Number of mandatory approvals for the code merge in the final build
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+What is boilerplate code?
+In computer programming, boilerplate code or just boilerplate refers to sections of code that have to be included in many places with little or no alteration. 
+It is often used when referring to languages that are considered verbose, i.e. the programmer must write a lot of code to do minimal jobs.
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+What is SOLID, DRY & KISS priciple?
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+1.	Tell me about yourself?
+2.	What is Page Object model?
+3.	Which collection are you using for window handling? Why?
+4.	Syntax for multiple window handling? 
+5.	How will you find locator? Which types of locator are you prefer?
+6.	How you get Text of particular element?
+7.	What is selenium class?
+8.	Write syntax for Findelement and Findelements   and tell me difference?
+9.	Which meeting you have in agile methodology?
+10.	What you do in standup meeting?
+11.	Are you dealing with client person to person?
+12.	Usually how you contact with client?
+13.	Tell my syntax for drag and drop?
+14.	Drag and drop is selenium method or driver method?
+15.	Tell me you will handle Alert?
+16.	Explain me Cucumber?
+17.	Annotation of testing?
+18.	How you will execute our test pack?
+19.	How you do parallel execution?
+20.	Where you write logic for program?
+21.	Command to push the code from gitbash?
+22.	Which tool is using as build management project and how you structure ur project?
+23.	Advantage of using Maven?
+24.	Have you visited client location? 
+25.	What is page factory?
+26.	Do you handle exception And How?
+27.	Exception you face while working?
+28.	Tell me oops concept?
+29.	What is Polymorphism? How we achieve polymorphism? Diff between overloading and overriding? 
+30.	Diff between Page Object Model and Page factory?
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
