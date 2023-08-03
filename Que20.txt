@@ -1,0 +1,184 @@
+Date- 4July2023 (BPN)
+
+1. self intro
+2. write a program duplicate value using HashMap?
+3. How to select dropDrown
+4. methods of dropDown
+5. waits in selenium
+6. take screen shot syntax
+7. why use paranthesis in take screen shot interface
+8. what is driver
+9. what is new ChromeDriver()
+10. what is Abstract class and Interface
+11. what is Final, finally and finalize
+12. what is method overloading
+13. what is Frame ? why it is use?
+
+-----------------------------------------------------------------------------------------------------
+
+Date--08July2023 Capgimini Pune...
+
+1. Tell me the OOps Concept
+2. Inheritance:Why Multiple Inh Not support? Can we Achive M.I?
+3. Abstraction: Diff abstract and Interface?
+4. Polimorphism: 
+5. how to handle Exception in java?What is used?Can We use multiple Try catch block?
+6. What are the diff Frameworks used in selenium?
+7. DDf, Kdf,Hybrid F?
+8. Difference between setting.xml and pom.xml?
+9. how to handle Drop Down?
+10. Why Use Action class Syntax and there methods?
+11. how to use DragAndDrop
+12. diff between get and Navigate?
+13. 1
+    22 	
+    333 
+    4444
+    55555
+14. What is String and String Buffer?
+15. Input= Automation123Testing
+    output= AutomationTesting
+16. What is POM....
+17. what is locators ? types 
+18. what is relative and absolute xPath?
+19. How to Read And Write data in Excel?Write a code
+20  How to Scroll Down Page ?
+21. How to fetch data from data Table?
+22. diff  between Scenario and Scenario OutLine?
+23. What is Hooks
+24. what is functionality of @before hook?
+
+SeroSoft (21 july 2023)
+
+1.introduce yourself
+2. What is Agile? 
+3. what is Scrum?
+4. what is Retrospective meeting
+5. Suppose you have find 3 Bugs and your DevMember not convinance , in that case what will u do? 
+6. What is Bug Life Cycle
+7. What is Regression Testing
+8. what is the diff between Regrassion and Re-testing?
+9. what is Smoke Testing?
+10. what is Sanity testing ?
+11. diff between Smoke and Sanity Testing?
+12. What is diff between Smoke and E-To-E testing?
+13. What is the diff between Epic and Story?
+14. What is Acceptance Criteria of Stories?
+15. String a= "Harsh"; 
+    String b= "Harsh";
+      a==b;
+      a.equals(b); What is the correct in both and O/P?
+16. String a= "Harsh"; 
+    String b= "HARsh";
+      a==b;
+      a.equals(b);   O/P?
+
+17. public static void main(String[] arr)
+	{
+	  for(; ;)
+	{
+	   System.out.println("Mango");
+	}
+	}
+	What is the OutPut?
+
+18. public static void main(String[] arr)
+	{
+	  for(int i=0;0;i++)
+	{
+	   System.out.println("Mango");
+	}
+	}
+	What is the OutPut?
+19. public class abc
+{
+    public static void main(String[] arr)
+{
+   if(true)
+{
+   System.out.println("Hello");
+
+}
+  else
+{
+   
+   System.out.println("Heyyy");
+}
+
+}
+  This Program Is work properly or not ? If Work hen what is O/p?
+
+20. What is StringBuilder? Explain with the help od Program ?
+21. what is Final?
+22. Diff between Abstraction and Encapsulation?
+23. Write a program for Both ?
+24. What is INterface?
+25. What is overloading and overriding?
+26. Can we override two class?
+27. Thread.slepp(3000MS); this method is overloading or overriding?
+28. how to handle DropDown in selenium?
+29. suppose one DD i.e Country Name, there are 20 countries name,then write a selenium code to print all country name through DropDown
+30. diff between ImplicitWait and Explicite Wait Which is better?
+31. Is It Possible in ExplicitWait --- a. ExpectedConditions.waitToPageTitle()
+		                       b. ExpectedConditions.waitNumberOfWindow() 
+32. Suppose POM.xml are in windows machine then we Push our project to in another Machine then those person Pull It then This project is properly 
+    work in other machine or he/she want to add some other things for run that project?
+33. we want to use Multiple UserName or Password  in only one Scenario, Is it Possible??? // but dont use ScenarionOutline and Examples  
+
+
+Company- CIVICA (Manager+Technical)
+
+1. what are the Roles and resposibility in your project?
+2. How many test cases you perform on daily bases
+3. WAP to print prime number through Uesr Input?
+4. A
+   B A
+   C B A
+   D C B A
+   E D C B A
+5.       5
+       4 5
+    3  4  5
+6. WAP to print 1 to 10 number in triangle pattern
+7. how can u Automate Captcha through Selenium when we login the Application And Captcha Automate is compulsary how u handle these situation?
+8. suppose we want to Withdrawal Rs 100 200 300 in ATM Machine write Scenario Outline for these
+9. what is the best TestNG ot JUnit
+10 what Annotation u use 
+11. what is the defference b/w @Before and @Before Class
+12. suppose we want to Upload 250MB and 500MB file through Mannualy Write the code for That?
+13. what are the advance Xpath ? why we use them
+14. write a code to find All the links present in our Application and Fetch all the links and we want to click on 3rd Link how will u do ?
+15. how u Debugg your application
+16 what is Break point in debug
+17. diff b/w regression and retesting
+18. how can u start write testcase Manually
+19. when we Stop Testing 
+20 how u deal with Client 
+
+----------------------------------------
+Capgemini 2nd round Date:2 Aug 
+
+1)count the character of your name and print repaeated character
+2)how to read data from excel
+3)how you maintain version of your framework code and tell the flow
+4)are you aware about CICD explain Jenkin pipeline concept
+5)API testing  explain http request in shortly
+6)which framework You use and how to handle it
+----------------------------------------
+L2 round Interview Questions 
+1.Write syntax of mouse action.
+2. White sytax of drop-down.
+3. Write syntax to take screenshot.
+4. Write syntax to invoke beowser
+5. What is d/w navigate and get.
+6. What is static.
+7. What is extend keyword.
+8. What is polymorphism.
+9. What is encapsulation.
+10. What is overloading and overriding
+11. Use of junit.explain annotations in it
+12. What is testng.
+13. Write xpath.
+14. What is webdriverfactory
+15. What is pageobject model
+----------------------------------------

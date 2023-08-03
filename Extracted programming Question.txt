@@ -1,0 +1,192 @@
+Text file 1 Questions -----------------
+ 
+1. What is output of following code ?
+     String x= "abcd";
+     String x= "pqr";
+     System.out.println(x);
+2. What is output of following code ?
+     String x= "abcd";
+     String y= "pqr";
+     System.out.println(x==y);
+3. What is output of following code ?
+     String x= "abcd";
+     String y= "pqr";
+     System.out.println(x.equals(y));
+4. How to reverse a string ?
+5. Write a code to swap a 2 numbers without using any third variable ?
+6. Write a code to count number of words in string using hashmap ?
+7. What if String a= "abc";
+                  String b= "abc";
+                  String c= new String ("abc");
+8. What is output of code -> 
+      System.out.println(a==b);
+      System.out.println(a==c);
+      System.out.println(b==c);
+9. Write code to check duplicate words in given string ?
+10. Write code to identify duplicate characters from string using list ?
+11. Write code for send keys to textbox using javascriptexecutor ?
+12. Write code to fetch data from excel sheet and store in hashmap ?
+13. Write code pf parameterized constructor ?
+14. Write code to shift all 0's from given array at right side and then remaining numbers arrange in ascending order ?
+array is -> {-1,5,8,20,46,0,41,-9,0,1,7,0,6,0}
+15. Write code to find no. of character from given string ?
+String is -> String a= "India123";
+16. Write a code to remove $ from given string ?
+string is -> abc$cbd$a$aab$b$acd$
+17. How many objects created from above same code ?
+18. Write code to reverse this string ? 
+String is -> abc$cbd$a$aab$b$acd$
+19. Write a code to check both arrays are equal or not ? and check its length same or not ?
+Arrays are--> int [] a= {1,2,3,4};
+                      int [] b= {2,1,4,3};
+ System.out.println(x);
+
+----------------------------------------------------------------------------------------------------------------------------------
+Text file 3 Questions
+
+1. What is output of following code ?
+     String x= "abcd";
+     String x= "pqr";
+     System.out.println(x);
+2. What is output of following code ?
+     String x= "abcd";
+     String y= "pqr";
+     System.out.println(x==y);
+3. What is output of following code ?
+     String x= "abcd";
+     String y= "pqr";
+     System.out.println(x.equals(y));
+4. How to reverse a string ?
+5. Write a code to swap a 2 numbers without using any third variable ?
+
+-----------------------------------------------------------------------------------------------------------------------
+Text file 4 Questions
+
+1. Write a code to count number of words in string using hashmap ?
+2. What if String a= "abc";
+                  String b= "abc";
+                  String c= new String ("abc");
+3. What is output of code -> 
+      System.out.println(a==b);
+      System.out.println(a==c);
+      System.out.println(b==c);
+4. Write code to check duplicate words in given string ?
+5. Write code to identify duplicate characters from string using list ?
+6. Write code for send keys to textbox using javascriptexecutor ?
+7. Write code to fetch data from excel sheet and store in hashmap ?
+8. Write code pf parameterized constructor ?
+9. Write code to shift all 0's from given array at right side and then remaining numbers arrange in ascending order ?
+array is -> {-1,5,8,20,46,0,41,-9,0,1,7,0,6,0}
+
+---------------------------------------------------------------------------------------------------------------
+Text file 5 Questions
+
+1. Write code to find no. of character from given string ?
+String is -> String a= "India123";
+2. Write a code to remove $ from given string ?
+string is -> abc$cbd$a$aab$b$acd$
+3. How many objects created from above same code ?
+4. Write code to reverse this string ? 
+String is -> abc$cbd$a$aab$b$acd$
+5. Write a code to check both arrays are equal or not ? and check its length same or not ?
+Arrays are--> int [] a= {1,2,3,4};
+                      int [] b= {2,1,4,3};
+
+--------------------------------------------------------------------------------------------------------
+Text file 10 Questions 
+1 Write program for string reverse
+2.write a code to extract a number from given string
+input-neha1234
+output-1234
+3.leap year program.
+
+4.charachter occurence program ?
+
+------------------------------------------------------------------------------
+Text file 12 Questions
+
+1.	WAP for Palindrome ?
+2.	Output For  
+String s1 = "Hello";
+String s2 ="Hello";
+String s3 = new String ("Hello");
+System.out.println(s1==s2);
+System.out.println(s2==s3);
+3.	WAP for factorial ?
+4.	Wap for Reverse the Integer ?
+WAP for Remove duplicates Element ?
+5.	Remove garbage value form – abc$sdc$eryhf$$asd$cda
+And Reverse the string?
+6.	String s1 = “HELLO”;
+String s2 = “HELLO”;
+String s3 = new string (“HELLO");
+String s4 = “hello";
+1.System.out.printl(s1==s2);
+2. System.out.printl(s1==s3);
+3. System.out.printl(s1.equals(s2));
+4. System.out.printl2s4.equals(s3));
+
+---------------------------------------------------------------------------------
+Text  file 14 queations
+
+1. Write a program to find the string is palandrom or not (on notepad) ?
+     ex.. String name="radar"; 
+2. The values for the a=0, b=1,c=2............so on upto z=25 are given;
+   you have to take a any string 
+ ex :- String user="welcome to java";  and assign the value to each char of string and print the 
+  welcome =69;(it is a sum of each char and theire addition is 69)
+  to= ? (char assign values and theire sum)
+ java=?(char assign values and theire sum)
+
+----------------------------------------------------------------------
+Text file 17 Questions 
+
+1. Write code for prime number in notepad
+2. prog I/P :  F9i$r3&e
+	OUTPUT	Fire
+		93
+		$&
+3.  program- prime no in notpad 
+.  write Program In Notpad
+    String s= "This Is  Vaishali"
+     o/p "Vaishali Is This"
+4.write progame in Notpad Reverse String 
+5. program a[1,5,10,15,6] find the largest no
+6. String s="Java " find the Dublicate string
+7. swaping  no without using third variable (logic)
+8.Write the program of array
+
+9.arr[]={1,3,5}
+arr1[]={2,4}
+output= {1,2,3,4,5}
+10.write a program of string = Iam using automation remove blank space on it
+
+--------------------------------------------------------------------------------------
+Text file 18 Questions
+
+1. write program to Remove Junk Character from String
+2. WAP of Duplicate String
+3. WAP factorial of 6
+4. WAP Armstrong number
+5. write a only logic of Pallindrome number 
+6. Reverse String With use of direct method 
+7. WAP factorial of 0, 3
+8. Write a program For reverse :: String s= "My Name Is Kirti";
+
+	O/P: yM emaN sI itriK;
+
+9. Write Program Second Largest Number in Array?
+10. write a program duplicate value using HashMap?
+11.reverse string
+12.input =I LOVE AUTOMATION   output= iLoVeAuToMaTiOn
+13.Reverse the string "Shreya" without using any built-in methods in Java.
+
+----------------------------------------------------------------------------------
+Text file 19 Questions 
+
+1. java program on find duplicate character.
+2. java program on bubble sort.
+3.java program to remove white space and replace it with comma.
+4. java program for taking input in arraylist and returning in array.
+
+
