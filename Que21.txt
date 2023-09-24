@@ -1,0 +1,124 @@
+Cognizant
+ Self introduction 
+
+Diff window handle & window handles 
+
+Diff Overloading & overriding 
+
+what is opps, explain Opps concept 
+
+What is encapsulation &  example 
+
+Diff abstraction & interface 
+
+what is abstract class
+ 
+Diff Final & finally
+ 
+ write code for window handle 
+
+what is runner class 
+
+what is Dry run 
+
+what is plugin 
+
+What is exception handling
+ 
+when webdriver doesn't find element which exception occurs 
+
+what is stale element exception 
+
+diff bet find elements & element 
+
+diff bet Array & Arraylist 
+
+Duplicate words 
+String a = " This is India and it is India and that is India" 
+
+Acess modifier in interface 
+
+What is list & set
+-----------------------------
+Interview 
+1) - Cognizant - 21/09/23- 01.00-1.45pm
+
+Que.
+1] Introduce yourself
+2]WebTable Problem - Finding the x-path with contain city and change the city name
+3]write array and finding 2nd largest no.
+4]
+
+
+
+2)Capgimini - 22/09/23  10.00-1045AM
+Que.
+1]Introduction
+2] Do you have knowledge of API testing 
+3]which complex problem you are facing in API testing
+4]your Roles and Responsibility
+5] Remove special character from string using Array
+   String Str = "($AC@!bn%12CA")
+--------------------------------------
+Coforge 2nd round :
+1. Introduction
+2. Explain framework in detail ?
+3. What is breakpoints in code ?
+4. List vs Set ?
+5. absolute xpath Vs relative xpath ?
+6. Create xpath for searchbox and add shortcut button of google ?
+7. Write code of fibanocci series ?
+8. Abstact class vs interface ?
+9. Annotations of Junits ?
+10. How to handle the multiple windows ?
+11. Any question for me ?
+-----------------------------------------
+BharatPe 19/09/2023 
+1.Explain abt yourself, roles and responsibilities and your project?
+So tell me how much automation and manual you work?
+2. What is STLC? Explain?
+3. What is boundary value analysis?
+4. explain bug life cycle?
+5. what is summary report?
+6. consider your working and suddenly the system crashes what you do?
+7.  where you write the test cases? Where your test data is stored? How you connect step and feature file?
+8. write scenario outline for specific feature and their step def file
+9. difference between web app and mob app?
+10. do you have experience with mobile testing?
+11. tell me what is severity and priority?
+12. they told different scenarios and asked me about their severity and priority.
+13. severity and priority of different scenarios
+14. write the code for: 
+Given a string s containing just the characters '(', ')', '{', '}', '[' and ']', determine if the input string is valid.
+An input string is valid if:
+1.Open brackets must be closed by the same type of brackets.
+2.Open brackets must be closed in the correct order.
+3.Every close bracket has a corresponding open bracket of the same type.
+ 
+Example 1:
+Input: s = "()"
+Output: true
+Example 2:
+Input: s = "()[]{}"
+Output: true
+Example 3:
+Input: s = "(]"
+Output: false
+ 
+Constraints:
+1 <= s.length <= 104
+s consists of parentheses only '()[]{}'.
+-----------------------------
+Automate the website:
+Website: swaglabs
+Scenarios:
+1.Enter login and password and verify the product page
+2. Go to the menu box click on about and then verify the page
+3. Navigate back and again verify the product page
+4. Click on the product with the highest price
+5. Add the prod to the card and verify it is added
+6. Click on continue and then verify the checkout page
+7. Enter all the necessary details and verify the order confirmation page.
+Duration: 45 min
+And send the zip file of this
+---------------------------
