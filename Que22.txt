@@ -46,3 +46,25 @@ Questions
 9] diff. between find Element & FindElements
 10]How to get All links and perform click action & write on compiler [compiler link provided by her]
 -----------------------------------------------------
+Company -Cognizant     Time- 10:45AM-11:45AM        Date- 14/10/23
+
+
+1] Introduce YourSelf
+2]Write your fw structure on notepad
+3]TestRenner options
+4]diff. Scenario and Scenario outline 
+5]Use Of Annotation and Tag in FW
+6]what is background Keyword
+7]How to handle multiple windows
+8]WebTable Handling Prob. open DEMOQA on google ,Click on ELement then Webtable and  Finding the Xpath for Age 45
+9]Give rating in Java youself  outof 5
+10] Input : String str = "Michael Jackson";
+   Output : MichaelJackso
+11]Reverse the same string
+12]how to push the code and fetch the code in GitHub
+13]How to clone the file 
+14]Diff get and Navigate method
+15]do you use genkings
+16]what is regrassion testing
+17]when we do sanity Testing 
+-----------------------------------------------------
