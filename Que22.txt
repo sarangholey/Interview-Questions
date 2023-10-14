@@ -1,0 +1,48 @@
+Veritusa
+1.Manual Testing process
+2.Response code 400
+3. Type of wait
+4.Validation of product on Amazon
+5. Type of interface
+6.main method overloading.
+7. Whole api process
+8. After getting built what will u do first
+------------------------------------------------------
+TCS 
+1) introduction
+2) explain your framework
+3) when u can say that the framework is a Data driven framework
+4) we lounch 10 browser instance with the same link and we have to navigate on 5th link and varify tha....how will we do?
+5) can we call method from interface to abstract class
+7) real time example of polymorphisam 
+8) what is the benifit of performing manual and automation together
+9) u have 10k test case..500 is High priority...2000 is low priority but cover the 60-70 of application then will u automate those 2000 TC....?
+-----------------------------------------------------
+TCS L1 QUESTION
+1. Tell me about yourself.
+2. Explain your framework.
+3. Is you create your framework from scratch. 
+4. What is diff between POM and Page Factory.
+5. If there is 1000 test case on which the manual testing done then how to automate these 1000 code and is automate all these 1000 testcases?
+6. What is need of Daily Standup meeting?
+7. which maven plugin used to run the selenium ?
+8. Expalin where you use the oops concept in your project?
+9. Why we use Implicit wait and Thread.sleep() and its difference?
+10. which implicit wait run if we give three implicit wait in a code with diff diff timeout ?
+11.where you store the data and how to access and validate that data in your project?
+12. WAP to whose input is "JAVA SCRIPT LANGUAGE" and we want output "SCRIPT" and send the output to the Username textbox ?
+13. WAP to count the duplicate words from this string "TCS is the largest Indian IT company. TCS has a huge number of employees. TCS always takes care of its employees." and out comming like "TCS" word count like that we want all words present in the string count
+-----------------------------------------------------
+Questions
+1]Roles and responsibility
+2]which frame work you use & explain it
+3]How much rating in Selenum ,java,Junit out of 5
+4]Write Scenario and SenarioOutline
+5]Explain GIve,When,Then,And in Senario 
+6]diff. Between Scenario and SenarioOutline
+7]Pob- Ticket No = SN11886677
+      System.out.println(11886677);
+8]How to handle multiple window & write on compiler
+9] diff. between find Element & FindElements
+10]How to get All links and perform click action & write on compiler [compiler link provided by her]
+-----------------------------------------------------
