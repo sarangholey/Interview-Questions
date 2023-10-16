@@ -68,3 +68,13 @@ Company -Cognizant     Time- 10:45AM-11:45AM        Date- 14/10/23
 16]what is regrassion testing
 17]when we do sanity Testing 
 -----------------------------------------------------
+L2 for virtusa gurgaon
+1.what is feature file.
+2.if you have 100 login password than how will u test that.
+3.if you have bootstrap drop-down how you will handle without using select.
+4.what will happen when u give written type and access modifier to constructor.
+5.how u will access the data from XL sheet.
+6.written default value of int and string.
+7.oops concept that you use in your project.
+8.what webdriver and what is cromedrive.
+-----------------------------------------------------
