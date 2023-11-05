@@ -78,3 +78,30 @@ L2 for virtusa gurgaon
 7.oops concept that you use in your project.
 8.what webdriver and what is cromedrive.
 -----------------------------------------------------
+Company -Capgimini
+1]Introduction
+2]What are the locaters
+3]what is relative xpath and absolute xpath
+4] write xpth for class 
+5]write xpath for and - //input[@class='ABC'and @type='XYZ']
+6]write xpth for or,then
+7]write xpath for contains text,id
+8]finding xpth using parent,follwing-sibling 
+9]how to handle mutiple windows
+10]diff window and windowHandles
+11]how to click on webelement explapin multiple way
+12]for scrolling page write method ,for horizontal scoll,vertical scroll
+13]when use Javascriptexecuter for click
+14]what is exception and  which exceptions handle in FW
+15]when nosuchElement exception occurs
+16]when nosuchvisible exception occurs
+17]when staleElement exception occurs
+18]how to handle iframe 
+19]having different module on page how to count
+20]having mutiple tab on single page how to count
+21]do you use CICD
+22]use of background keyword
+23]use of hooks
+24]diff background keyword and hooks
+25]explain your FW
+-----------------------------------------------------
