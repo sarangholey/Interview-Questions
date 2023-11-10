@@ -121,3 +121,30 @@ Company -Cognizant
 14]Do you know about listner
 15]what is Git and Explain cammand
 -----------------------------------------------------
+Company -Emphasis
+1]Introduction
+2]Use of static and where use in project
+3]What are the framework you know
+4]What is data driven frame work
+5]what is keyword driven fw
+6]Explain your cucumber fw
+7]How you track defect in jira
+8]what are the agile ceremonies and explain your role init
+9]what is mean by story point
+10]which test cases you test first, on which basis
+11]do you know about API testing,CICD
+12]Explain Bug Life Cycle
+13]How to handle alert
+14]Array 
+    String a1={a,b,d,c,e} 
+     String a2={a,c,d,f,g,h}
+   compare the array and finding the missing alphabets in a2 from a1
+15]
+complete
+Incomplete
+Active
+Inactive
+On Hold
+......select the active button and checked and other unchecked
+-----------------------------------------------------
+
