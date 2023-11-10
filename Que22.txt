@@ -105,3 +105,19 @@ Company -Capgimini
 24]diff background keyword and hooks
 25]explain your FW
 -----------------------------------------------------
+Company -Cognizant
+1]Introduction
+2]What are the locators
+3]Expalain implicit wait and Explicit wait
+4]diff implicit wait and explicit wait
+5]What are the exceptions occurs in your project
+6]Explain each 
+8]Do you know about selenium speed 
+9]explain tread.sleep
+10]How to handle multiple window
+11]use of quit and close
+12]What is page factory
+13]use of selenium grid
+14]Do you know about listner
+15]what is Git and Explain cammand
+-----------------------------------------------------
