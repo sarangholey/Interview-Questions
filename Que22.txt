@@ -147,4 +147,23 @@ Inactive
 On Hold
 ......select the active button and checked and other unchecked
 -----------------------------------------------------
+1.Manual Testing process
+2.Response code 400
+3. Type of wait
+4.Validation of product on Amazon
+5. Type of interface
+6.main method overloading.
+7. Whole api process
+8. After getting built what will u do first
+-----------------------------------------------------
+L2 for Apventive
+1.what is meavan
+2.types of exception
+3. Overcome of exception
+4. Response code 300 
+5. Where you got the build
+6.types of variable in postman api
+7.version of Android and ios
+----------------------------------------------------
 
+-----------------------------------------------------
