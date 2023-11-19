@@ -174,3 +174,18 @@ Capgemini
 6) diff between implicit and explicit wait
 7) rate yourself out of 5
 -----------------------------------------------------
+Java basic programming questions -
+1.fibonacci series
+2.swaping two numbers
+3.farenheit to celcius
+4.factorial program
+5.reverse number
+6.Reverse string 
+7.pallindrome 
+8.print any table
+9.sum 1 to 10
+10.even or odd
+11.display current date and time 
+12.number is prime or not 
+13.find duplicate character from string
+-----------------------------------------------------
