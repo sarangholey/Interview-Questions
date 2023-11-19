@@ -165,5 +165,12 @@ L2 for Apventive
 6.types of variable in postman api
 7.version of Android and ios
 ----------------------------------------------------
-
+Capgemini
+1) introduction
+2) find largest No from array
+3) reverse the string
+4) how to handle the popup
+5) how u wait to load the page without using implicit and explicit wait
+6) diff between implicit and explicit wait
+7) rate yourself out of 5
 -----------------------------------------------------
