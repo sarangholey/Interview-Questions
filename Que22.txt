@@ -189,3 +189,26 @@ Java basic programming questions -
 12.number is prime or not 
 13.find duplicate character from string
 -----------------------------------------------------
+1. How to launch multiple driver objects from a single stepdef file?
+ 
+2. Can we have multiple step  Def files in one framework, if yes how to manage them and what would be best alternative.
+
+3. We need to automate 100 test cases, how will be categories them and what will be implementation flow.
+
+4. How to read external files in Java and which file types are supported.
+
+5. Types of waits, benefits and which is the best suited for your framework.
+
+6. What is the hierarchy of your work distribution?
+
+7.  Which is the most commonly encountered Exception in your framework,  what is its root cause.
+
+8 . Write java code to implement inverted pyramid of stars by taking length from user.
+
+9. Explain bug life cycle and which is the most crucial phase 
+
+10. Apart from selenium which Testing tools you know or have exposure 
+
+
+11. Explain CICD
+-----------------------------------------------------
