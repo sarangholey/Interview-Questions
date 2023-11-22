@@ -212,3 +212,14 @@ Java basic programming questions -
 
 11. Explain CICD
 -----------------------------------------------------
+Capgimini
+1)Question about oops concept in java.
+2)How do you use interface in your project.
+3)verification methods used in selenium webdriver.
+4)how to handle the dynamic webelement
+5)why and how we use assert method
+6)Question regarding the switching the windows
+7)Diffrence between the Collection & Collections in java
+8)How do you implement POM Explain
+9)Basic question about RestAssured & J Meter
+-----------------------------------------------------
