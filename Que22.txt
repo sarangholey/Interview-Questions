@@ -223,3 +223,19 @@ Capgimini
 8)How do you implement POM Explain
 9)Basic question about RestAssured & J Meter
 -----------------------------------------------------
+1)What are your roles and responsibilities in previous organisation?
+2)Explain Framework 
+3)what are differnt waits present inside selenium (both conditional and unconditional)
+4)what is Xpath ?
+5)POM
+6)Streams Java8 features
+7)Different types of exception in Java
+8)Collection framework in Java
+9)Difference between Array list and set
+10)Explain hashmap
+11)Syntax for perform right click operation
+12)Difference between build and perform
+13)Difference between find element and find elements
+14)What is absolute xpath which is faster 
+15)Java program to find odd numbers
+-----------------------------------------------------
