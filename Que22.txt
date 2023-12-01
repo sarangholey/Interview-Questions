@@ -239,3 +239,19 @@ Capgimini
 14)What is absolute xpath which is faster 
 15)Java program to find odd numbers
 -----------------------------------------------------
+Capgemini 01/12/2023
+1) introduction
+2)where you run your script...in local or Jenkins
+3) use of Jenkins
+4) daily day to day work
+5) how many testars in your team
+6) i clicked on link then 1 file will download then how will u verify that file is downloaded in your folder
+7) how to run failed test cases
+8) different annotations of junit and uses
+9) element is present in dom and webpage but still we face no such elements exception ...how to resolve
+10) how to handle exception
+11) throw and throwa keywords
+12) implicit, explicit and fluent wait
+13) how to create bug in jira
+14) what documents u maintain in functional testing
+-----------------------------------------------------
