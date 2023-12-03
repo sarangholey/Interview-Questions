@@ -255,3 +255,38 @@ Capgemini 01/12/2023
 13) how to create bug in jira
 14) what documents u maintain in functional testing
 -----------------------------------------------------
+Capgemini 2.12.2020
+1 )introduction
+2) framework
+3) agile process in your team
+4)different waits and where we use
+5)diff test plan and test strategy
+6) diff BDD and TDD
+7)diff final and finally
+8)all oops concepts
+9) diff abstraction and interface
+10) what is default keyword
+11)program to find how many time each charector present in string
+12) what is refinement and backlog
+13) program to check how many alphabet written in uppar case and huw many return in lower case
+14) how to Handle windows
+15) how to handle frame
+16) how to handle alert
+17) Uses of action class
+18) what exception you face and why they come
+19) diff hashtable and hash map
+20) diff scenario and scenario outline
+21) what is background keywords
+23) access modifier in java
+24) how u use collection in your project
+25) name of different locators
+26) why we give preference to relatives xpath over absolute xpath
+27) junit annotations
+28) test ng annotations
+29) what are the hooks in cucumber
+30) what is stepdef
+31) how to handle drop-down
+32) how to check that how many options are there in drop-down
+33) how to handle exception
+34) what and diff type of constructors
+-----------------------------------------------------
