@@ -290,3 +290,52 @@ Capgemini 2.12.2020
 33) how to handle exception
 34) what and diff type of constructors
 -----------------------------------------------------
+LTIMindtree (08-12-2023)
+1.  String test="John#2000$;nick#3000$;rose#1000$;andy#4000$;josh#5000$";
+    outPut= andyjosh
+2. How you Handle Drop Down with Less code if in one WebPage 10 DD are there?
+3. what is Flow of your FrameWork?
+4. in Amazon Website find Xpath for "Best Sellers" with Refference to Electronic?
+5. How do you Estimate in Agile? 
+6. s= "$Gee*k;s..fo, r'Ge^eks?";
+   output= GeeksforGeeks
+-----------------------------------------------------
+Capgemini L2 8.12.2023
+1) introduction
+2) diff between scenario and scenario outline
+3) input int{} a ={1,2,3,4}
+Int [] b = {3,4,5,6,7}
+Output:- 1234567(union of 2 array)
+And
+4) Output= 34(duplicate int from array)
+-----------------------------------------------------
+company - Amla commerce       date - 08/12/23
+1]Introduction
+2]Explain your fw and utilities
+3]which log do you use 
+4]how do you analys the log
+5]Expalain the opps concept with example where you use in fw
+6]use of static keyword
+7]can we achive 100% abstraction using abstract class and why
+8]you having 10 test cases and you want to execute only 5 by using interface 
+9]when you do regression testing 
+10]tell me about java exception 
+12]tell me about selenium  exception 
+13]what is staleElement exception
+14]diff nosuch element found exception and  staleElement exception
+15]what is arithmatic exception 
+16]explain synchronization
+17]explain explicit wait and implicit wait 
+18]when youn use explicit wait and implicit wait 
+19]do you use TestNG
+20]what is listener ,which you use  in project
+21]what are method of listner 
+22]how you set priority and disable the test case
+23]do you use POM in your project
+24]how many testcases you write in day/ in 4 years
+25]how to handle bug
+26]how many bug found in a day/in 4 years
+27]what is your team size
+28]find the largest no. from array
+    int arr []= {50,70,90,25,40};
+-----------------------------------------------------
