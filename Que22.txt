@@ -339,3 +339,12 @@ company - Amla commerce       date - 08/12/23
 28]find the largest no. from array
     int arr []= {50,70,90,25,40};
 -----------------------------------------------------
+Quality kiosk
+1) introduction 
+2) explain framework 
+2) program:-find length, substring World and print that on uppar case 3) diff webelement and find element 
+4)tell me the end to end scenario on which you work, in how many screens u work on a single scenario 
+5) explain your project 6) explain Agile process 7)how to handle alert
+ 8) explain hashmap 
+9) rate yourself in java
+-----------------------------------------------------
