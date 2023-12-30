@@ -348,7 +348,18 @@ Quality kiosk
  8) explain hashmap 
 9) rate yourself in java
 -----------------------------------------------------
-
+What is Jenkins and why is it used?
+List some features of Jenkins
+What are the advantages of using Jenkins?
+How did Jenkins come into existence?
+How is continuous integration achieved using Jenkins?
+Do you know any other continuous integration tools? How is Jenkins better than any of those?
+What is DevOps and in which stage does Jenkins fit in?
+What are the system requirements to install Jenkins?
+Give some important plugins in Jenkins.
+Give a simple use case/scenario to explain how Jenkins works.
+Can you start Jenkins using command line? How?
+What is a job in Jenkins?
 -----------------------------------------------------
 
 -----------------------------------------------------
