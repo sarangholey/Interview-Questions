@@ -1,0 +1,22 @@
+Capgemini L1 Round (4 jan 2024,6 to 7 pm)
+1.what is the element of selenium?
+2.what is locator strategy?How many and their name?
+3.write the code for take screenshot on notepad?
+4.How to handle multiple windows in selenium and write code over notepad?
+5.write the complete code of webDriver wait on notepad?
+6.which wait you use in your framework?
+7.when you use web driver wait in your framework?
+8.Are you using Thread.sleep() in your framework and when you use that?
+9.write the code for pallindrome number on notepad?
+10.write the code for fibonacci series on notepad?
+11.print the even and odd number from 1 to 100?write on notepad and run it over eclipse?
+12.if you have one parent and 5 child and you are on 5th child, How you come over parent in DOM?
+13.what is cucumber hooks?where you use it and why you use it?
+14.what is type casting and its type?
+15.How to handle dropdown in selenium?
+16.Have you use API Postman?
+17. what is tool tip in selenium?
+18.How to uplaod file in selenium?
+19.Do you create framework for your project?
+20.Have you any question for me?
+-----------------------------------------------------
