@@ -20,3 +20,15 @@ Capgemini L1 Round (4 jan 2024,6 to 7 pm)
 19.Do you create framework for your project?
 20.Have you any question for me?
 -----------------------------------------------------
+1. What is your role at the time of release?
+2.what is profile in cucumber?
+3.How You handle  the requirement get change in middle development?
+4. How you handle the environment down situation?
+5. How you close the browser after regression pack execution?
+-----------------------------------------------------
+1.Introduce myself
+2.What is selenium webdriver 
+3.how to handle web elemenets 
+4.which actions are perform in selenium
+5.locators in selenium
+-----------------------------------------------------
