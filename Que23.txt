@@ -47,5 +47,10 @@ capgemini L2 (6 jan 2024, 4.45 to 5.30)
 12.String str1 = "abcdABCDabcd" , output as print duplicate character and how many time,eg a=2,c=2?
 13.Have you any question for me?
 -----------------------------------------------------
-
+1.Introduce yourself?
+2.Explain Page Object model?
+3.How to accese private variable in the class of another package?
+4.open flipkart.com find the xpath of mobile element by using the reference of two wheeler element, use xpath axes?
+5.String list1="John#2000$;nick#3000$;rose#1000$;andy#4000$;josh#5000$"; whose salary more than 3000 print that persons name as a output?(write logic over notepad)?
+-----------------------------------------------------
 
