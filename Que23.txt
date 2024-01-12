@@ -53,4 +53,22 @@ capgemini L2 (6 jan 2024, 4.45 to 5.30)
 4.open flipkart.com find the xpath of mobile element by using the reference of two wheeler element, use xpath axes?
 5.String list1="John#2000$;nick#3000$;rose#1000$;andy#4000$;josh#5000$"; whose salary more than 3000 print that persons name as a output?(write logic over notepad)?
 -----------------------------------------------------
+1.Introduce about yourself?
+2.Open Indian Loan Bank url and find the xpath for webtable,which approach you use while finding the xpath?
+3.String str = "aabbddTTTrr"; console output - character and their count in String, eg.a=2,T=3.
+4.which folders you use in your project?
+5.where you stored your test data?
+6.How you push your code in github repo, tell me all commands?
+7.How you create new branch?
+8.after pushing the code in repo what are you doing?
+9.How you click on web element without using click method?
+10.How you get text without using getText() method?
+11.Tell me your framework Structure ?
+12.what is pattern and matchers in selenium?
+13.How you store all dropdown options?
+14.String str = "f$3i%5r7*e";
+output - fire
+         $%*
+         357
+-----------------------------------------------------
 
