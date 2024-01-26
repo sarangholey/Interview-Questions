@@ -71,4 +71,21 @@ output - fire
          $%*
          357
 -----------------------------------------------------
+Infosys
+about your self
+tell me the differant keyword in cucumber bdd
+what is a use of feature file
+why we are using bdd framework
+are you work on testng
+what is inheritance
+what is polymorphism
+if i want to execute test case on diffrant browser how can you handle that in selenium
+differant types of locators
+diffrent type of waits? explain each
+share your sceen and write the code for scroll function
+write the code for initialize the driver,open any url, maximixze the window,use the explicitewait 
+write the program for revert the string 
+input ="ice is lighter than water"
+output="water than lighter is ice"
+-----------------------------------------------------
 
