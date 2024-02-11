@@ -88,4 +88,72 @@ write the program for revert the string
 input ="ice is lighter than water"
 output="water than lighter is ice"
 -----------------------------------------------------
+capgemini (1st Round, 45min)
+Introduce Your self?
+About your role and responsibility?
+Rate youself for java and selenium out of 10?
+1.WAP on notepad for input String str ="ppwwqqeeRRRt" output p=2 w=2 q=2 e=2 R=3 t=1?
+2.WAP on notepad for 
+a=1,b=2
+a++ =
+++a =
+
+x="Pune"
+y="mumbai"
+
+output for ->
+a+b+x+y=
+a+x+b+y=
+a+x+y+b=
+a+(x+y)+b=
+x+(a+B)+y=
+
+3.open flipkart and find the xpath for flipkart.
+4.write code on notepad for explicite wait?
+5.write a code on notepad for
+    *
+   * *
+  * * *
+ * * * *
+6. write that block is valid or not
+1.try{ } =
+2.catch(){ }=
+3.try{ }
+  finally{ } =
+5.try{ }
+  catch(){ }
+  finally{ } =
+6.try{try{} }
+  catch{ } =
+
+7. write code on notepad , how to handle multiple windows in selenium?
+8.Do you intract with client or not?
+
+capgemini (2nd Round 30 min)
+1.Introduce yourself?
+2.What you actually do in your project?
+Rate yourself for java out of 5?
+3.open google and find the xpath for image by using the gmail reference?
+4.if we have dynamic option in dropdown and we want to select 10th one then, how you select?
+5.what are the methods in select class?
+6.if three windows are open and you want to switch 3rd one then how you switch ,tell me orally?
+7.if in feature file 10 scenarios are available and only 4 scenarios need to run ,how will you run?
+8.where you keep your locators and webelements?
+9.How you call page object members in your step def class?
+10.Tell me about your role and responsibilities,are you attending the sprint ceremonies or not?
+11.How many test cases in your regression pack?
+12.How many time required to complete the regression testing?
+13.How will you do regression testing?
+15.for version control what you use,How you push your code in github tell me orally all commands?
+16.Your team member use same branch or seprate branch for pushing the code?
+17.WAP on notepad input String str = "demo", output deemmmoooo?
+18.what is test strategy,test planning ...how you can do that?
+17.what is the acceptance criteria to write the test cases?
+19.WAP on notepad how to reverse the String by using String buffer and also without using String buffer?
+20.why you change your job?
+21.Do you have any experience in banking domain?
+22.Any quesion for me?
+-----------------------------------------------------
+
+
 
