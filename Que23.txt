@@ -154,6 +154,27 @@ Rate yourself for java out of 5?
 21.Do you have any experience in banking domain?
 22.Any quesion for me?
 -----------------------------------------------------
-
+Everstek Pvt Ltd
+1.Tell me about Yourself
+2.Explain your frame work
+3.Tell some git codes
+4.What is jira tool
+5.What is smoke testing and regression testing
+6.what are types of waits in selenium
+7.what is final key word means
+8.if there is multiple try cathch block and single final keyword is there so it will run or not
+9.write syntax of implicitly wait
+10.if you not complete your task in a day what will you do
+11.what is backlog
+12.tell me test case senario of ball pen
+13.what is page object model
+14.have you ever done perfomance testing
+15.if there is user name password values i have to insert how i will send values
+16.if you have 100 test cases which will you do as prioratery
+17.wap to swapping two numbers
+18.for getting highest marks from coulm how you will get from database
+19.What are the annotations
+20.what is prioraterty means 
+-----------------------------------------------------
 
 
