@@ -176,5 +176,14 @@ Everstek Pvt Ltd
 19.What are the annotations
 20.what is prioraterty means 
 -----------------------------------------------------
+Everstek Pvt Ltd   ( Round 2)
+1.Tell me about Yourself
+2.Explain your frame work
+3.send me your git credantials
+4..what are types of waits in selenium
+5.Write syntax of implicitly wait
+6.wap of array asending order
+7.automate given website by enter username password and hit submit button
+-----------------------------------------------------
 
 
