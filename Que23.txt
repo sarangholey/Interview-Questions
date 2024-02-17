@@ -185,5 +185,23 @@ Everstek Pvt Ltd   ( Round 2)
 6.wap of array asending order
 7.automate given website by enter username password and hit submit button
 -----------------------------------------------------
+capgemini (1st Round)
+why you have 4 years gap
+write java program for Armstrong number
+WAP for reverse string
+WAP to return duplicate number fron array list arr[1,2,3,2]
+write a code for take screenshot and explain eth code what you are doing in this code
+in your project where you use overriding method
+in your project where you use typecasting 
+how to handle the multiple window 
+locators in for finding elements
+how can you decide which tool is better for your project
+how can you handle ssl certificate issues in selenium
+what is purpose of the "executescript" method in selenium
+how can you perform database testing using selenium
+-----------------------------------------------------
+
+
+
 
 
