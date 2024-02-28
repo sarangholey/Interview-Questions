@@ -199,6 +199,13 @@ how can you decide which tool is better for your project
 how can you handle ssl certificate issues in selenium
 what is purpose of the "executescript" method in selenium
 how can you perform database testing using selenium
+Neosoft pvt ltd
+1.Is there any relation between java and python
+2.what are collections in java
+3.diffrence between list and set
+4.diffrence between hashmap and hashset
+5.Input- write java program
+    output- etirw avaj margorp
 -----------------------------------------------------
 
 
