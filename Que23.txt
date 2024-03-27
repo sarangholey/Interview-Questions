@@ -207,6 +207,15 @@ Neosoft pvt ltd
 5.Input- write java program
     output- etirw avaj margorp
 -----------------------------------------------------
+HCL pvt ltd
+1.Tell me about your self
+2.Explain your framework
+3.wap if input a=[1 0 3 0 4 ] output a=[1 3 4 0 0 ]
+4.what we written in runner file
+5.what is mevan
+6.what are options of cucumber
+7.how we connect file in runner file
+-----------------------------------------------------
 
 
 
