@@ -216,8 +216,16 @@ HCL pvt ltd
 6.what are options of cucumber
 7.how we connect file in runner file
 -----------------------------------------------------
-
-
+Aarav Global Services
+1.Tell me about your elf.
+2.Tell me about your role and responsiblity
+3.wap to swap two number without using third number
+4.what are the locators
+5.what is boundary value analysis
+6.what is greater and lower value of boundary value analysis
+7.what is negative testing of boundary value analysis
+8.what is diffrence between smoke testing and sanity testing
+-----------------------------------------------------
 
 
 
