@@ -226,6 +226,27 @@ Aarav Global Services
 7.what is negative testing of boundary value analysis
 8.what is diffrence between smoke testing and sanity testing
 -----------------------------------------------------
-
+Quality Kiosk
+1.Tell me about your self.
+2.what is oops concept in java
+3.what is polymorphism
+4.what are types of polymorphism
+5.write syntax of polymorphism
+6.What is abstract class
+7.what is inheritance
+8.write syntax of inheritance
+9.wap to count vowels
+10.wap to each word revers
+11.find xpath of makemy tripe site list of cities
+12.what is diffrence between list and set
+13.what are collections and what is type of collection
+14.array, list ,set are class or abstract
+15.what is diff between find element anf find elements
+16.what is mean by pom
+17.if selenium is not working what will do
+18.if there is 100 test case how will you run
+19.write syntax of take screen short
+20.Any question for me
+-----------------------------------------------------
 
 
